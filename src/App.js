@@ -63,9 +63,15 @@ const App = () => {
           onChange={handleInputChange}
           className="search-input"
         />
-        <select value={selectedRarity} onChange={handleRarityChange} className="rarity-filter">
+        <select value={selectedRarity} onChange={handleRarityChange} className="rarity-filter" style={{
+    padding: '10px',          /* Adjust padding as needed */
+    margin: '10px',           /* Adjust margin as needed */
+    borderRadius: '5px',      /* Adjust border radius as needed */
+    border: '1px solid #ccc'  /* Optional: Add border for better visibility */
+  }}
+        >
           <option value="all">All</option>
-          <option value="legendary">Legendary</option>
+          {/* <option value="legendary">Legendary</option> */}
           <option value="rare">Rare</option>
           <option value="uncommon">Uncommon</option>
           <option value="common">Common</option>
