@@ -5,52 +5,73 @@ const App = () => {
   const [metadata, setMetadata] = useState([]);
   const [query, setQuery] = useState('');
   const [filteredResults, setFilteredResults] = useState([]);
+  const [selectedRarity, setSelectedRarity] = useState('all');
 
   useEffect(() => {
-    fetch('/metadata.json')
+    fetch('metadata.json')
       .then(response => response.json())
       .then(data => setMetadata(data))
       .catch(error => console.error('Error fetching metadata:', error));
-  }, []); // Add an empty dependency array to run the effect only once
+  }, []);
 
   const renderResult = (inscription) => {
-    const { name, attributes, rarity } = inscription;
-
+    const { name, attributes, rarity, overall_rarity } = inscription;
     return (
       <div key={name} className="result-item">
         <h2>{name}</h2>
-        <p><strong>Background:</strong> {attributes.Background} ({rarity.Background})</p>
-        <p><strong>Body:</strong> {attributes.Body} ({rarity.Body})</p>
-        <p><strong>Outfits:</strong> {attributes.Outfits} ({rarity.Outfits})</p>
-        <p><strong>Back Accessories:</strong> {attributes['Back Acessories']} ({rarity['Back Acessories']})</p>
-        <p><strong>Mouth:</strong> {attributes.Mouth} ({rarity.Mouth})</p>
-        <p><strong>Eyes:</strong> {attributes.Eyes} ({rarity.Eyes})</p>
-        <p><strong>Head:</strong> {attributes.Head} ({rarity.Head})</p>
+        <p><strong>Overall Rarity:</strong> {overall_rarity}</p>
+        <p><strong>Background:</strong> {attributes.Background} ({rarity?.Background})</p>
+        <p><strong>Body:</strong> {attributes.Body} ({rarity?.Body})</p>
+        <p><strong>Outfits:</strong> {attributes.Outfits} ({rarity?.Outfits})</p>
+        <p><strong>Back Accessories:</strong> {attributes['Back Acessories']} ({rarity?.['Back Acessories']})</p>
+        <p><strong>Mouth:</strong> {attributes.Mouth} ({rarity?.Mouth})</p>
+        <p><strong>Eyes:</strong> {attributes.Eyes} ({rarity?.Eyes})</p>
+        <p><strong>Head:</strong> {attributes.Head} ({rarity?.Head})</p>
       </div>
     );
   };
 
-  const searchMetadata = (query) => {
-    const filteredResults = metadata.filter(inscription => 
-      inscription.name.toLowerCase().includes(query.toLowerCase())
-    );
+  const searchMetadata = (query, rarity) => {
+    const filteredResults = metadata.filter(inscription => {
+      const matchesQuery = inscription.name.toLowerCase().includes(query.toLowerCase());
+      const matchesRarity = rarity === 'all' || (inscription.overall_rarity && inscription.overall_rarity.toLowerCase() === rarity.toLowerCase());
+      return matchesQuery && matchesRarity;
+    });
     setFilteredResults(filteredResults);
   };
 
   const handleInputChange = (event) => {
-    setQuery(event.target.value);
-    searchMetadata(event.target.value);
+    const newQuery = event.target.value;
+    setQuery(newQuery);
+    searchMetadata(newQuery, selectedRarity);
+  };
+
+  const handleRarityChange = (event) => {
+    const newRarity = event.target.value;
+    setSelectedRarity(newRarity);
+    searchMetadata(query, newRarity);
   };
 
   return (
-    <div>
-      <input
-        type="text"
-        placeholder="Search Inscription ID"
-        value={query}
-        onChange={handleInputChange}
-      />
-
+    <div className='container'>
+      <h1 className="title">Doginal Ducks Rarity</h1>
+      <div className="search-container">
+        <input
+          type="text"
+          placeholder="Search Inscription ID Or Duck #"
+          value={query}
+          onChange={handleInputChange}
+          className="search-input"
+        />
+        <select value={selectedRarity} onChange={handleRarityChange} className="rarity-filter">
+          <option value="all">All</option>
+          <option value="legendary">Legendary</option>
+          <option value="rare">Rare</option>
+          <option value="uncommon">Uncommon</option>
+          <option value="common">Common</option>
+        </select>
+        <button className="search-button">Search</button>
+      </div>
       <div id="result">
         {filteredResults.length > 0 ? (
           filteredResults.map(inscription => renderResult(inscription))

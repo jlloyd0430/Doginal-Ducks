@@ -5,13 +5,20 @@ body {
 
 .container {
   border-radius: 25px;
-  max-width: 800px;
+  max-width: 600px;
   margin: 0 auto;
   padding: 20px;
 }
 
 #result {
   margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  flex-wrap: wrap; /* Allow items to wrap to the next line if needed */
+  justify-content: center; /* Center the items horizontally */
+  gap: 10px; /* Add space between items */
+  
 }
 
 
@@ -21,7 +28,51 @@ body {
   padding: 10px;
   margin: 10px 0;
   outline: 2px solid yellow; /* Yellow outline for each result item */
-  display: flex; /* Use flexbox */
   /* Center the content horizontally */
   align-items: center; /* Center the content vertically */
+  text-align: center;
+  flex: 0 1 auto;
+}
+
+.search-container {
+  display: flex;
+  justify-content: center; /* Centers the container horizontally */
+  align-items: center; /* Centers the items vertically */
+  margin-top: 20px; /* Add top margin if needed */
+}
+
+.search-input {
+  padding: 10px; /* Padding inside the input */
+  margin-right: 10px; /* Space between input and button */
+  border: 1px solid #ccc; /* Border styling */
+  border-radius: 4px; /* Rounded corners */
+  width: 300px; /* Fixed width, adjust as needed */
+}
+
+.search-button {
+  padding: 10px 15px; /* Padding inside the button */
+  border: none; /* Remove default border */
+  border-radius: 4px; /* Rounded corners */
+  background-color: #007bff; /* Button background color */
+  color: white; /* Button text color */
+  cursor: pointer; /* Pointer cursor on hover */
+}
+
+.search-button:hover {
+  background-color: #0056b3; /* Darker background on hover */
+}
+
+.container {
+  border-radius: 25px;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.title {
+  text-align: center; /* Center the heading text */
+  color: gold; /* Gold color for the text */
+  font-family: 'Brush Script MT', cursive; /* Cursive font */
+  font-size: 2.5em; /* Adjust the font size as needed */
+  margin-bottom: 20px; /* Space below the heading */
 }
