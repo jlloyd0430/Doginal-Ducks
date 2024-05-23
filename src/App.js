@@ -23,7 +23,7 @@ const App = () => {
         <p><strong>Background:</strong> {attributes.Background} ({rarity?.Background})</p>
         <p><strong>Body:</strong> {attributes.Body} ({rarity?.Body})</p>
         <p><strong>Outfits:</strong> {attributes.Outfits} ({rarity?.Outfits})</p>
-        <p><strong>Back Accessories:</strong> {attributes['Back Acessories']} ({rarity?.['Back Acessories']})</p>
+        <p><strong>Back Accessories:</strong> {attributes['Back  Accessories']} ({rarity?.['Back  Accessories']})</p>
         <p><strong>Mouth:</strong> {attributes.Mouth} ({rarity?.Mouth})</p>
         <p><strong>Eyes:</strong> {attributes.Eyes} ({rarity?.Eyes})</p>
         <p><strong>Head:</strong> {attributes.Head} ({rarity?.Head})</p>
