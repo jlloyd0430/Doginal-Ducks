@@ -15,10 +15,11 @@ const App = () => {
   }, []);
 
   const renderResult = (inscription) => {
-    const { name, attributes, rarity, overall_rarity } = inscription;
+    const { name, attributes, rarity, overall_rarity, image_path } = inscription;
     return (
       <div key={name} className="result-item">
         <h2>{name}</h2>
+        <img src={image_path} alt={name} style={{ maxWidth: '200px' }} />
         <p><strong>Overall Rarity:</strong> {overall_rarity}</p>
         <p><strong>Background:</strong> {attributes.Background} ({rarity?.Background})</p>
         <p><strong>Body:</strong> {attributes.Body} ({rarity?.Body})</p>
@@ -30,6 +31,7 @@ const App = () => {
       </div>
     );
   };
+  
 
   const searchMetadata = (query, rarity) => {
     const filteredResults = metadata.filter(inscription => {
