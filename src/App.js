@@ -19,7 +19,7 @@ const App = () => {
     return (
       <div key={name} className="result-item">
         <h2>{name}</h2>
-        <img src={image_path} alt={name} style={{ maxWidth: '200px' }} />
+        <img src={image_path} alt={name} style={{ maxWidth: '200px', borderRadius: '10px' }} />
         <p><strong>Overall Rarity:</strong> {overall_rarity}</p>
         <p><strong>Background:</strong> {attributes.Background} ({rarity?.Background})</p>
         <p><strong>Body:</strong> {attributes.Body} ({rarity?.Body})</p>
