@@ -76,7 +76,7 @@ const App = () => {
           <option value="uncommon">Uncommon</option>
           <option value="common">Common</option>
         </select>
-        <button className="search-button">Search</button>
+       
       </div>
       <div id="result">
         {filteredResults.length > 0 ? (
