@@ -4,7 +4,7 @@ const Kwak = () => {
   return (
     <div>
       <h2>$Kwak</h2>
-      <p>This is the Kwak page.</p>
+      <p>Kwak Details soon tba..</p>
     </div>
   );
 };

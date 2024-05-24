@@ -135,3 +135,73 @@ body {
 .about-image:hover {
   transform: scale(1.05); /* Slightly enlarge the image on hover */
 }
+
+.carousel-container {
+  overflow: hidden; /* Hide overflowing images */
+  width: 100%; /* Full width */
+  margin: 0 auto; /* Center the carousel */
+  position: relative;
+}
+
+.carousel-track {
+  display: flex;
+  animation: scroll 30s linear infinite; /* Infinite scrolling animation */
+}
+
+.carousel-image {
+  max-width: 200px; /* Adjust the size as needed */
+  margin: 10px; /* Space around the image */
+  padding: 10px; /* Padding inside the image container */
+  border-radius: 15px; /* Rounded corners */
+  border: 2px solid gold; /* Gold border */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Optional: add shadow */
+}
+
+/* Scrolling animation */
+@keyframes scroll {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.home-container {
+  text-align: center; /* Center the text */
+}
+
+.home-title {
+  font-size: 2.5em;
+  color: gold;
+  margin-bottom: 20px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: #333;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.footer a {
+  color: white;
+  margin: 0 15px;
+  font-size: 24px;
+  transition: color 0.3s;
+}
+
+.footer a:hover {
+  color: gold;
+}
+
+.marketplace-icon {
+  width: 24px;
+  height: 24px;
+}
+

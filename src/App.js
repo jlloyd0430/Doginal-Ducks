@@ -1,11 +1,13 @@
 import './App.css';
 import React, { useState, useEffect } from 'react';
-import { Routes, Route, Link, useLocation } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes, Link, useLocation } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faBars } from '@fortawesome/free-solid-svg-icons';
+import { faBars, faGlobe } from '@fortawesome/free-solid-svg-icons';
+import { faTwitter, faDiscord } from '@fortawesome/free-brands-svg-icons';
 import Roadmap from './Roadmap';
 import Kwak from './Kwak';
 import About from './About';
+import Home from './Home';
 
 const App = () => {
   const [metadata, setMetadata] = useState([]);
@@ -72,12 +74,13 @@ const App = () => {
       <div className={`sidebar ${sidebarOpen ? 'open' : ''}`}>
         <ul>
           <li><Link to="/" onClick={() => setSidebarOpen(false)}>Home</Link></li>
+          <li><Link to="/rarity" onClick={() => setSidebarOpen(false)}>Rarity Checker</Link></li>
           <li><Link to="/roadmap" onClick={() => setSidebarOpen(false)}>Roadmap</Link></li>
           <li><Link to="/kwak" onClick={() => setSidebarOpen(false)}>Kwak</Link></li>
           <li><Link to="/about" onClick={() => setSidebarOpen(false)}>About</Link></li>
         </ul>
       </div>
-      {location.pathname === '/' && (
+      {location.pathname === '/rarity' && (
         <>
           <h1 className="title">Doginal Ducks Rarity</h1>
           <div className="search-container">
@@ -89,37 +92,47 @@ const App = () => {
               className="search-input"
             />
             <select value={selectedRarity} onChange={handleRarityChange} className="rarity-filter" style={{
- padding: '10px',          /* Adjust padding as needed */
- margin: '10px',           /* Adjust margin as needed */
- borderRadius: '5px',      /* Adjust border radius as needed */
- border: '1px solid #ccc'  /* Optional: Add border for better visibility */
-
-}}
->
-<option value="all">All</option>
-<option value="rare">Rare</option>
-<option value="uncommon">Uncommon</option>
-<option value="common">Common</option>
-</select>
-</div>
-</>
-)}
-<Routes>
-<Route path="/" element={
-<div id="result">
-{filteredResults.length > 0 ? (
-filteredResults.map(inscription => renderResult(inscription))
-) : (
-<p>No results found</p>
-)}
-</div>
-} />
-<Route path="/roadmap" element={<Roadmap />} />
-<Route path="/kwak" element={<Kwak />} />
-<Route path="/about" element={<About />} />
-</Routes>
-</div>
-);
+              padding: '10px',          /* Adjust padding as needed */
+              margin: '10px',           /* Adjust margin as needed */
+              borderRadius: '5px',      /* Adjust border radius as needed */
+              border: '1px solid #ccc'  /* Optional: Add border for better visibility */
+            }}>
+              <option value="all">All</option>
+              <option value="rare">Rare</option>
+              <option value="uncommon">Uncommon</option>
+              <option value="common">Common</option>
+            </select>
+          </div>
+        </>
+      )}
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/rarity" element={
+          <div id="result">
+            {filteredResults.length > 0 ? (
+              filteredResults.map(inscription => renderResult(inscription))
+            ) : (
+              <p>No results found</p>
+            )}
+          </div>
+        } />
+        <Route path="/roadmap" element={<Roadmap />} />
+        <Route path="/kwak" element={<Kwak />} />
+        <Route path="/about" element={<About />} />
+      </Routes>
+      <footer className="footer">
+        <a href="https://twitter.com/doginalducks" target="_blank" rel="noopener noreferrer">
+          <FontAwesomeIcon icon={faTwitter} />
+        </a>
+        <a href="https://discord.gg/qKjymp53DB" target="_blank" rel="noopener noreferrer">
+          <FontAwesomeIcon icon={faDiscord} />
+        </a>
+        <a href="https://doggy.market/nfts/doginalducks" target="_blank" rel="noopener noreferrer">
+        <FontAwesomeIcon icon={faGlobe} />
+        </a>
+      </footer>
+    </div>
+  );
 };
 
 export default App;
