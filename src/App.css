@@ -118,3 +118,20 @@ body {
   background-color: #575757;
 }
 
+.images-container {
+  display: flex;
+  justify-content: center; /* Center the images horizontally */
+  gap: 20px; /* Space between the images */
+  margin-top: 20px; /* Space above the images */
+}
+
+.about-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px; /* Optional: rounded corners */
+  transition: transform 0.3s; /* Smooth hover effect */
+}
+
+.about-image:hover {
+  transform: scale(1.05); /* Slightly enlarge the image on hover */
+}
