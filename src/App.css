@@ -7,7 +7,7 @@ body {
   border-radius: 25px;
   max-width: 100%;
   margin: 0 auto;
-  padding: 20px;
+  /* padding: 20px; */
 }
 
 #result {
@@ -177,12 +177,28 @@ body {
   margin-bottom: 20px;
 }
 
+.home-container {
+  text-align: center; /* Center the text */
+}
+
+.background-image {
+  background-image: url("../public/images/background.webp"); /* Replace with your image path */
+  background-size: cover; /* Cover the entire container */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  min-height: 100vh; /* Ensure it covers the full viewport height */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 .footer {
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 20px;
-  background-color: #333;
+  /* background-color: #333; */
   position: fixed;
   bottom: 0;
   width: 100%;

@@ -39,6 +39,7 @@ const Home = () => {
 
   return (
     <div className="home-container">
+     <div className="background-image">
       <h1 className="home-title">Welcome to Doginal Ducks</h1>
       <p className="home-description">This is the main landing page of Doginal Ducks.</p>
       <div className="carousel-container">
@@ -47,6 +48,7 @@ const Home = () => {
             <img src={image} alt={`Duck ${index + 1}`} className="carousel-image" key={index} />
           ))}
         </div>
+      </div>
       </div>
     </div>
   );
