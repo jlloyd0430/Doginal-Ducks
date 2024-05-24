@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () => {
     return (
-      <div className="about-background">
+      <div className="about-background press-start-2p-regular">
          <div className="about-container">
         <h2>Who</h2>
         <p>Hello, im Sonofabitcoin im a Fullstack Web Developer and Founder of <a href='https://novalab.app'>Nova Labs</a>. Im a big fan of the UTXO model you can find me developing and creating mostly on Doge,Cardano, and Bitcoin. I am also degen, a collector, animal lover, Dad,and many other things</p>

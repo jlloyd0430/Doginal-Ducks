@@ -1,7 +1,18 @@
 body {
   background-color: #333; /* Dark background color for the page */
   color: #fff; /* Text color */
+  font-family: 'Press Start 2P', system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
+
+/* src/App.css or src/index.css */
+.press-start-2p-regular {
+  font-family: 'Press Start 2P', system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
 
 .container {
   border-radius: 25px;
@@ -65,7 +76,7 @@ body {
   text-align: center; /* Center the heading text */
   text-decoration: solid #333;
   color: gold; /* Gold color for the text */
-  font-family: 'Brush Script MT', cursive; /* Cursive font */
+  font-family: 'Press Start 2P', system-ui;
   font-size: 2.5em; /* Adjust the font size as needed */
   margin-bottom: 20px; /* Space below the heading */
 }
@@ -249,7 +260,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  /* justify-content: center; */
   text-align: center;
   padding: 20px;
   box-sizing: border-box;
