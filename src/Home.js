@@ -40,8 +40,8 @@ const Home = () => {
   return (
     <div className="home-container press-start-2p-regular">
      <div className="background-image">
-      <h1 className="home-title">Welcome to Doginal Ducks</h1>
-      <p className="home-description">This is the main landing page of Doginal Ducks.</p>
+      <h1 className="home-title">Welcome to The Krypt</h1>
+      <p className="home-description">This is the Land of Doginal Ducks.</p>
       <div className="carousel-container">
         <div className="carousel-track">
           {images.map((image, index) => (
