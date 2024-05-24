@@ -9,10 +9,10 @@ const About = () => {
       <p>You can get a doginal duck on any of the verified Doginal/Drc-20 marketplaces!</p>
       <div className="images-container">
         <a href="https://doggy.market/nfts/doginalducks" target="_blank" rel="noopener noreferrer">
-          <img src="/images/doggymarket.png" alt="Doginal Duck first " className="about-image" />
+          <img src="/images/doggymarket.jpg" alt="DoggyMarket " className="about-image" />
         </a>
         <a href="https://doge.ordinalswallet.com/collection/doginal-ducks" target="_blank" rel="noopener noreferrer">
-          <img src="/images/ordinalswallet.png" alt="Doginal Duck second" className="about-image" />
+          <img src="/images/ordinalswallet.jpg" alt="OW" className="about-image" />
         </a>
       </div>
       <h2>How</h2>
