@@ -15,13 +15,11 @@ body {
   display: flex;
   max-width: 100%;
   flex-direction: row;
-  align-items: center; 
+  align-items: flex-start; /* Align items to the top */
   flex-wrap: wrap; /* Allow items to wrap to the next line if needed */
-  justify-content: center; /* Center the items horizontally */
+  justify-content: space-evenly; /* Distribute items evenly */
   gap: 20px; /* Add space between items */
-  
 }
-
 
 .result-item {
   border-radius: 25px;
@@ -29,10 +27,9 @@ body {
   padding: 10px;
   margin: 10px 0;
   outline: 2px solid Gold; /* Gold outline for each result item */
-  /* Center the content horizontally */
-  align-items: center; /* Center the content vertically */
   text-align: center;
-  flex: 0 1 auto;
+  flex: 0 1 30%; /* Allow the item to take up to 30% of the container's width */
+  box-sizing: border-box; /* Ensure padding and border are included in the width */
 }
 
 .search-container {
@@ -63,13 +60,6 @@ body {
   background-color: #0056b3; /* Darker background on hover */
 }
 
-.container {
-  border-radius: 25px;
-  max-width: 600px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
 .title {
   text-align: center; /* Center the heading text */
   color: gold; /* Gold color for the text */
@@ -77,3 +67,54 @@ body {
   font-size: 2.5em; /* Adjust the font size as needed */
   margin-bottom: 20px; /* Space below the heading */
 }
+
+.nav-icon {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-size: 24px;
+  cursor: pointer;
+  color: white;
+}
+
+.nav-icon:hover {
+  color: gold; /* Change color on hover */
+}
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  right: -250px; /* Initially hidden */
+  width: 250px;
+  height: 100%;
+  background-color: #333;
+  color: white;
+  transition: right 0.3s ease;
+  padding-top: 60px; /* Add padding to account for the title */
+  z-index: 1000; /* Ensure the sidebar is on top of other content */
+}
+
+.sidebar.open {
+  right: 0; /* Slide in from the right */
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sidebar ul li {
+  padding: 8px 16px;
+  text-align: center;
+}
+
+.sidebar ul li a {
+  color: white;
+  text-decoration: none;
+  display: block;
+}
+
+.sidebar ul li a:hover {
+  background-color: #575757;
+}
+
