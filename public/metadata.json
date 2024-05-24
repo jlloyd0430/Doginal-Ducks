@@ -12,13 +12,13 @@
             "Head": "Top Hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "12.68%",
-            "Outfits": "7.51%",
-            "Back  Accessories": "7.98%",
-            "Mouth": "14.55%",
-            "Eyes": "6.10%",
-            "Head": "5.63%"
+            "Background": "16.28%",
+            "Body": "12.56%",
+            "Outfits": "7.44%",
+            "Back  Accessories": "8.37%",
+            "Mouth": "14.42%",
+            "Eyes": "6.51%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/1.png"
@@ -36,15 +36,15 @@
             "Head": "Sombrero Hat"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "11.74%",
-            "Outfits": "3.76%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "14.55%",
-            "Eyes": "3.29%",
-            "Head": "3.29%"
+            "Background": "18.14%",
+            "Body": "11.63%",
+            "Outfits": "3.72%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "14.42%",
+            "Eyes": "3.26%",
+            "Head": "3.72%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/2.png"
     },
     {
@@ -60,13 +60,13 @@
             "Head": "Bandana"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "15.96%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "11.74%",
-            "Eyes": "6.57%",
-            "Head": "6.57%"
+            "Background": "16.28%",
+            "Body": "15.81%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "11.63%",
+            "Eyes": "6.51%",
+            "Head": "6.51%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/3.png"
@@ -76,7 +76,7 @@
         "name": "4",
         "attributes": {
             "Background": "Sky Blue",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "Armor",
             "Back  Accessories": "Sword",
             "Mouth": "Cigarette",
@@ -84,13 +84,13 @@
             "Head": "Headband"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "10.80%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "10.33%",
-            "Mouth": "14.55%",
-            "Eyes": "5.63%",
-            "Head": "4.23%"
+            "Background": "16.28%",
+            "Body": "23.26%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "10.23%",
+            "Mouth": "14.42%",
+            "Eyes": "5.58%",
+            "Head": "4.19%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/4.png"
@@ -108,15 +108,15 @@
             "Head": "Rice hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "11.27%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "10.33%",
-            "Mouth": "6.57%",
-            "Eyes": "5.63%",
-            "Head": "5.63%"
+            "Background": "16.28%",
+            "Body": "11.16%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "10.23%",
+            "Mouth": "6.51%",
+            "Eyes": "5.58%",
+            "Head": "5.58%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/5.png"
     },
     {
@@ -132,13 +132,13 @@
             "Head": "UFO"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "14.55%",
-            "Outfits": "3.76%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "14.55%",
-            "Eyes": "5.16%",
-            "Head": "5.16%"
+            "Background": "16.28%",
+            "Body": "14.42%",
+            "Outfits": "3.72%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "14.42%",
+            "Eyes": "5.12%",
+            "Head": "5.12%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/6.png"
@@ -156,15 +156,15 @@
             "Head": "Halo"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "15.96%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "35.21%",
-            "Eyes": "7.04%",
-            "Head": "5.16%"
+            "Background": "18.14%",
+            "Body": "15.81%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "35.35%",
+            "Eyes": "6.98%",
+            "Head": "5.12%"
         },
-        "overall_rarity": "Common",
+        "overall_rarity": "Uncommon",
         "image_path": "ducks/7.png"
     },
     {
@@ -180,13 +180,13 @@
             "Head": "Purple Beanie"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "14.55%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "7.98%",
-            "Mouth": "35.21%",
-            "Eyes": "5.16%",
-            "Head": "3.29%"
+            "Background": "14.42%",
+            "Body": "14.42%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "8.37%",
+            "Mouth": "35.35%",
+            "Eyes": "5.12%",
+            "Head": "3.26%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/8.png"
@@ -204,13 +204,13 @@
             "Head": "Super Saiyan"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "10.33%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "35.21%",
-            "Eyes": "5.16%",
-            "Head": "3.29%"
+            "Background": "16.28%",
+            "Body": "11.16%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "35.35%",
+            "Eyes": "5.12%",
+            "Head": "3.26%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/9.png"
@@ -228,13 +228,13 @@
             "Head": "None"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "11.27%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "10.33%",
-            "Mouth": "35.21%",
-            "Eyes": "5.63%",
-            "Head": "4.69%"
+            "Background": "18.14%",
+            "Body": "11.16%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "10.23%",
+            "Mouth": "35.35%",
+            "Eyes": "5.58%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/10.png"
@@ -244,7 +244,7 @@
         "name": "11",
         "attributes": {
             "Background": "Green",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "Hawaiian shirt",
             "Back  Accessories": "Katana",
             "Mouth": "Cigarette 2",
@@ -252,13 +252,13 @@
             "Head": "Crown"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "12.21%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "14.55%",
-            "Eyes": "6.57%",
-            "Head": "5.63%"
+            "Background": "14.42%",
+            "Body": "23.26%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "14.42%",
+            "Eyes": "6.51%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/11.png"
@@ -276,13 +276,13 @@
             "Head": "Backward Hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "14.55%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "35.21%",
-            "Eyes": "3.76%",
-            "Head": "5.63%"
+            "Background": "16.28%",
+            "Body": "14.42%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "35.35%",
+            "Eyes": "4.19%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/12.png"
@@ -300,13 +300,13 @@
             "Head": "Dogecoin Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "11.27%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "11.74%",
-            "Eyes": "5.16%",
-            "Head": "3.76%"
+            "Background": "14.42%",
+            "Body": "11.16%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "12.09%",
+            "Eyes": "5.12%",
+            "Head": "3.72%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/13.png"
@@ -316,7 +316,7 @@
         "name": "14",
         "attributes": {
             "Background": "Purple",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "Gold Necklace",
             "Back  Accessories": "Katana",
             "Mouth": "None",
@@ -324,13 +324,13 @@
             "Head": "Halo"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "10.80%",
-            "Outfits": "7.98%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "35.21%",
-            "Eyes": "4.69%",
-            "Head": "5.16%"
+            "Background": "18.14%",
+            "Body": "23.26%",
+            "Outfits": "7.91%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "35.35%",
+            "Eyes": "4.65%",
+            "Head": "5.12%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/14.png"
@@ -340,7 +340,7 @@
         "name": "15",
         "attributes": {
             "Background": "Sky Blue",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "Brown Shirt",
             "Back  Accessories": "None",
             "Mouth": "Whistling",
@@ -348,13 +348,13 @@
             "Head": "Rice hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "12.21%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "11.74%",
-            "Eyes": "4.69%",
-            "Head": "5.63%"
+            "Background": "16.28%",
+            "Body": "23.26%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "12.09%",
+            "Eyes": "4.65%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/15.png"
@@ -364,7 +364,7 @@
         "name": "16",
         "attributes": {
             "Background": "Pink",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "Armor",
             "Back  Accessories": "Katana 2",
             "Mouth": "Coin in Mouth",
@@ -372,13 +372,13 @@
             "Head": "Snapback"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "12.21%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "4.23%",
-            "Eyes": "4.69%",
-            "Head": "4.23%"
+            "Background": "14.42%",
+            "Body": "23.26%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "4.19%",
+            "Eyes": "4.65%",
+            "Head": "4.19%"
         },
         "overall_rarity": "Rare",
         "image_path": "ducks/16.png"
@@ -396,13 +396,13 @@
             "Head": "Headband"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "12.68%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "14.55%",
-            "Eyes": "4.23%",
-            "Head": "4.23%"
+            "Background": "18.60%",
+            "Body": "12.56%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "14.42%",
+            "Eyes": "4.19%",
+            "Head": "4.19%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/17.png"
@@ -420,13 +420,13 @@
             "Head": "Rice hat"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "11.74%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "10.33%",
-            "Mouth": "14.55%",
-            "Eyes": "6.57%",
-            "Head": "5.63%"
+            "Background": "18.60%",
+            "Body": "11.63%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "10.23%",
+            "Mouth": "14.42%",
+            "Eyes": "6.51%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/18.png"
@@ -444,13 +444,13 @@
             "Head": "Snapback"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "10.33%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "11.74%",
-            "Eyes": "5.63%",
-            "Head": "4.23%"
+            "Background": "18.60%",
+            "Body": "11.16%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "12.09%",
+            "Eyes": "5.58%",
+            "Head": "4.19%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/19.png"
@@ -468,13 +468,13 @@
             "Head": "Cowboy Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "11.27%",
-            "Outfits": "7.98%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "14.55%",
-            "Eyes": "6.57%",
-            "Head": "7.98%"
+            "Background": "14.42%",
+            "Body": "11.16%",
+            "Outfits": "7.91%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "14.42%",
+            "Eyes": "6.51%",
+            "Head": "7.91%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/20.png"
@@ -492,13 +492,13 @@
             "Head": "None"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "10.33%",
-            "Outfits": "7.04%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "14.55%",
-            "Eyes": "3.29%",
-            "Head": "4.69%"
+            "Background": "18.14%",
+            "Body": "11.16%",
+            "Outfits": "6.98%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "14.42%",
+            "Eyes": "3.26%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/21.png"
@@ -508,7 +508,7 @@
         "name": "22",
         "attributes": {
             "Background": "Purple",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "Brown Shirt",
             "Back  Accessories": "None",
             "Mouth": "None",
@@ -516,13 +516,13 @@
             "Head": "Dogecoin Hat"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "12.21%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "35.21%",
-            "Eyes": "6.10%",
-            "Head": "3.76%"
+            "Background": "18.14%",
+            "Body": "23.26%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "35.35%",
+            "Eyes": "6.05%",
+            "Head": "3.72%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/22.png"
@@ -532,7 +532,7 @@
         "name": "23",
         "attributes": {
             "Background": "Purple",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "Armor",
             "Back  Accessories": "None",
             "Mouth": "Whistling",
@@ -540,13 +540,13 @@
             "Head": "Super Saiyan"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "10.80%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "11.74%",
-            "Eyes": "3.76%",
-            "Head": "3.29%"
+            "Background": "18.14%",
+            "Body": "23.26%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "12.09%",
+            "Eyes": "4.19%",
+            "Head": "3.26%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/23.png"
@@ -564,13 +564,13 @@
             "Head": "Super Saiyan"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "12.68%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "35.21%",
-            "Eyes": "7.04%",
-            "Head": "3.29%"
+            "Background": "16.28%",
+            "Body": "12.56%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "35.35%",
+            "Eyes": "6.98%",
+            "Head": "3.26%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/24.png"
@@ -588,15 +588,15 @@
             "Head": "Laser Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "11.74%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "10.33%",
-            "Mouth": "14.55%",
-            "Eyes": "5.16%",
-            "Head": "4.23%"
+            "Background": "14.42%",
+            "Body": "11.63%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "10.23%",
+            "Mouth": "14.42%",
+            "Eyes": "5.12%",
+            "Head": "4.65%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/25.png"
     },
     {
@@ -608,17 +608,17 @@
             "Outfits": "Brown Shirt",
             "Back  Accessories": "None",
             "Mouth": "None",
-            "Eyes": "Golden Eyes",
+            "Eyes": "Gold Eyes",
             "Head": "Backward Hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "10.33%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "35.21%",
-            "Eyes": "6.57%",
-            "Head": "5.63%"
+            "Background": "16.28%",
+            "Body": "11.16%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "35.35%",
+            "Eyes": "6.51%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/26.png"
@@ -628,7 +628,7 @@
         "name": "27",
         "attributes": {
             "Background": "Sky Blue",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "Stripped Shirt",
             "Back  Accessories": "knight sword",
             "Mouth": "None",
@@ -636,13 +636,13 @@
             "Head": "Wizard Hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "10.80%",
-            "Outfits": "5.16%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "35.21%",
-            "Eyes": "4.69%",
-            "Head": "4.23%"
+            "Background": "16.28%",
+            "Body": "23.26%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "35.35%",
+            "Eyes": "4.65%",
+            "Head": "4.19%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/27.png"
@@ -652,7 +652,7 @@
         "name": "28",
         "attributes": {
             "Background": "Purple",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "Stripped Shirt",
             "Back  Accessories": "Katana",
             "Mouth": "Open Mouth",
@@ -660,13 +660,13 @@
             "Head": "Dogecoin Hat"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "12.21%",
-            "Outfits": "5.16%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "1.41%",
-            "Eyes": "5.63%",
-            "Head": "3.76%"
+            "Background": "18.14%",
+            "Body": "23.26%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "1.40%",
+            "Eyes": "5.58%",
+            "Head": "3.72%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/28.png"
@@ -684,13 +684,13 @@
             "Head": "Backward Hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "11.74%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "35.21%",
-            "Eyes": "7.04%",
-            "Head": "5.63%"
+            "Background": "16.28%",
+            "Body": "11.63%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "35.35%",
+            "Eyes": "6.98%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/29.png"
@@ -708,13 +708,13 @@
             "Head": "Horns"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "10.33%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "35.21%",
-            "Eyes": "4.69%",
-            "Head": "2.82%"
+            "Background": "16.28%",
+            "Body": "11.16%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "35.35%",
+            "Eyes": "4.65%",
+            "Head": "2.79%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/30.png"
@@ -732,15 +732,15 @@
             "Head": "Halo"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "11.27%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "7.04%",
-            "Mouth": "6.57%",
-            "Eyes": "5.16%",
-            "Head": "5.16%"
+            "Background": "14.42%",
+            "Body": "11.16%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "6.98%",
+            "Mouth": "6.51%",
+            "Eyes": "5.12%",
+            "Head": "5.12%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/31.png"
     },
     {
@@ -752,19 +752,19 @@
             "Outfits": "samurai",
             "Back  Accessories": "Katana 2",
             "Mouth": "Coin in Mouth",
-            "Eyes": "Golden Eyes",
+            "Eyes": "Gold Eyes",
             "Head": "Cowboy Hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "11.74%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "4.23%",
-            "Eyes": "6.57%",
-            "Head": "7.98%"
+            "Background": "16.28%",
+            "Body": "11.63%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "4.19%",
+            "Eyes": "6.51%",
+            "Head": "7.91%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/32.png"
     },
     {
@@ -772,7 +772,7 @@
         "name": "33",
         "attributes": {
             "Background": "Purple",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "Purple Suit",
             "Back  Accessories": "knight sword",
             "Mouth": "Bubblegum",
@@ -780,13 +780,13 @@
             "Head": "Laser Hat"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "12.21%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "11.74%",
-            "Eyes": "4.69%",
-            "Head": "4.23%"
+            "Background": "18.14%",
+            "Body": "23.26%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "11.63%",
+            "Eyes": "4.65%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/33.png"
@@ -796,7 +796,7 @@
         "name": "34",
         "attributes": {
             "Background": "Light Pink",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "Hawaiian shirt",
             "Back  Accessories": "Katana 2",
             "Mouth": "None",
@@ -804,13 +804,13 @@
             "Head": "Horns"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "12.21%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "35.21%",
-            "Eyes": "6.10%",
-            "Head": "2.82%"
+            "Background": "18.60%",
+            "Body": "23.26%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "35.35%",
+            "Eyes": "6.05%",
+            "Head": "2.79%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/34.png"
@@ -828,13 +828,13 @@
             "Head": "Bandana"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "11.27%",
-            "Outfits": "7.98%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "14.55%",
-            "Eyes": "5.16%",
-            "Head": "6.57%"
+            "Background": "14.42%",
+            "Body": "11.16%",
+            "Outfits": "7.91%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "14.42%",
+            "Eyes": "5.12%",
+            "Head": "6.51%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/35.png"
@@ -844,7 +844,7 @@
         "name": "36",
         "attributes": {
             "Background": "Pink",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "Brown Shirt",
             "Back  Accessories": "Sword",
             "Mouth": "Cigarette 2",
@@ -852,13 +852,13 @@
             "Head": "Blue Beanie"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "12.21%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "10.33%",
-            "Mouth": "14.55%",
-            "Eyes": "5.16%",
-            "Head": "3.29%"
+            "Background": "14.42%",
+            "Body": "23.26%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "10.23%",
+            "Mouth": "14.42%",
+            "Eyes": "5.12%",
+            "Head": "3.26%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/36.png"
@@ -876,13 +876,13 @@
             "Head": "Horns"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "11.74%",
-            "Outfits": "7.51%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "14.55%",
-            "Eyes": "5.16%",
-            "Head": "2.82%"
+            "Background": "16.28%",
+            "Body": "11.63%",
+            "Outfits": "7.44%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "14.42%",
+            "Eyes": "5.12%",
+            "Head": "2.79%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/37.png"
@@ -900,13 +900,13 @@
             "Head": "Halo"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "15.96%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "1.41%",
-            "Eyes": "7.04%",
-            "Head": "5.16%"
+            "Background": "16.28%",
+            "Body": "15.81%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "1.40%",
+            "Eyes": "6.98%",
+            "Head": "5.12%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/38.png"
@@ -916,7 +916,7 @@
         "name": "39",
         "attributes": {
             "Background": "Purple",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "Brown Shirt",
             "Back  Accessories": "Axe",
             "Mouth": "Cigarette",
@@ -924,13 +924,13 @@
             "Head": "Top Hat"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "10.80%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "7.98%",
-            "Mouth": "14.55%",
-            "Eyes": "4.69%",
-            "Head": "5.63%"
+            "Background": "18.14%",
+            "Body": "23.26%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "8.37%",
+            "Mouth": "14.42%",
+            "Eyes": "4.65%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/39.png"
@@ -948,15 +948,15 @@
             "Head": "None"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "11.74%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "10.33%",
-            "Mouth": "6.57%",
-            "Eyes": "5.16%",
-            "Head": "4.69%"
+            "Background": "18.14%",
+            "Body": "11.63%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "10.23%",
+            "Mouth": "6.51%",
+            "Eyes": "5.12%",
+            "Head": "4.65%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/40.png"
     },
     {
@@ -968,17 +968,17 @@
             "Outfits": "Gold Chain",
             "Back  Accessories": "knight sword",
             "Mouth": "Cigarette 2",
-            "Eyes": "Golden Eyes",
+            "Eyes": "Gold Eyes",
             "Head": "Cowboy Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "14.55%",
-            "Outfits": "7.51%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "14.55%",
-            "Eyes": "6.57%",
-            "Head": "7.98%"
+            "Background": "14.42%",
+            "Body": "14.42%",
+            "Outfits": "7.44%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "14.42%",
+            "Eyes": "6.51%",
+            "Head": "7.91%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/41.png"
@@ -996,13 +996,13 @@
             "Head": "Backward Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "12.68%",
-            "Outfits": "3.76%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "35.21%",
-            "Eyes": "5.16%",
-            "Head": "5.63%"
+            "Background": "14.42%",
+            "Body": "12.56%",
+            "Outfits": "3.72%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "35.35%",
+            "Eyes": "5.12%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/42.png"
@@ -1012,7 +1012,7 @@
         "name": "43",
         "attributes": {
             "Background": "Light Pink",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "knight armour",
             "Back  Accessories": "Katana 2",
             "Mouth": "Cigarette 2",
@@ -1020,13 +1020,13 @@
             "Head": "Crown"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "10.80%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "14.55%",
-            "Eyes": "5.63%",
-            "Head": "5.63%"
+            "Background": "18.60%",
+            "Body": "23.26%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "14.42%",
+            "Eyes": "5.58%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/43.png"
@@ -1044,15 +1044,15 @@
             "Head": "Blue Beanie"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "15.96%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "7.04%",
-            "Mouth": "11.74%",
-            "Eyes": "3.76%",
-            "Head": "3.29%"
+            "Background": "16.28%",
+            "Body": "15.81%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "6.98%",
+            "Mouth": "11.63%",
+            "Eyes": "3.72%",
+            "Head": "3.26%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/44.png"
     },
     {
@@ -1068,13 +1068,13 @@
             "Head": "Purple Beanie"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "15.96%",
-            "Outfits": "7.98%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "35.21%",
-            "Eyes": "4.69%",
-            "Head": "3.29%"
+            "Background": "18.14%",
+            "Body": "15.81%",
+            "Outfits": "7.91%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "35.35%",
+            "Eyes": "4.65%",
+            "Head": "3.26%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/45.png"
@@ -1092,13 +1092,13 @@
             "Head": "Rice hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "12.68%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "14.55%",
-            "Eyes": "5.16%",
-            "Head": "5.63%"
+            "Background": "14.42%",
+            "Body": "12.56%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "14.42%",
+            "Eyes": "5.12%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/46.png"
@@ -1112,17 +1112,17 @@
             "Outfits": "Gold Chain",
             "Back  Accessories": "None",
             "Mouth": "Bubblegum",
-            "Eyes": "Golden Eyes",
+            "Eyes": "Gold Eyes",
             "Head": "Horns"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "14.55%",
-            "Outfits": "7.51%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "11.74%",
-            "Eyes": "6.57%",
-            "Head": "2.82%"
+            "Background": "16.28%",
+            "Body": "14.42%",
+            "Outfits": "7.44%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "11.63%",
+            "Eyes": "6.51%",
+            "Head": "2.79%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/47.png"
@@ -1136,19 +1136,19 @@
             "Outfits": "Stripped Shirt",
             "Back  Accessories": "knight sword",
             "Mouth": "Beard",
-            "Eyes": "Golden Eyes",
+            "Eyes": "Gold Eyes",
             "Head": "Crown"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "12.68%",
-            "Outfits": "5.16%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "6.57%",
-            "Eyes": "6.57%",
-            "Head": "5.63%"
+            "Background": "18.60%",
+            "Body": "12.56%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "6.51%",
+            "Eyes": "6.51%",
+            "Head": "5.58%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/48.png"
     },
     {
@@ -1164,13 +1164,13 @@
             "Head": "Black Bandana"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "11.74%",
-            "Outfits": "9.39%",
-            "Back  Accessories": "10.33%",
-            "Mouth": "11.74%",
-            "Eyes": "5.16%",
-            "Head": "3.76%"
+            "Background": "18.60%",
+            "Body": "11.63%",
+            "Outfits": "9.30%",
+            "Back  Accessories": "10.23%",
+            "Mouth": "12.09%",
+            "Eyes": "5.12%",
+            "Head": "3.72%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/49.png"
@@ -1184,17 +1184,17 @@
             "Outfits": "Gold Chain",
             "Back  Accessories": "Wings",
             "Mouth": "None",
-            "Eyes": "Golden Eyes",
+            "Eyes": "Gold Eyes",
             "Head": "Headband"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "14.55%",
-            "Outfits": "7.51%",
-            "Back  Accessories": "7.04%",
-            "Mouth": "35.21%",
-            "Eyes": "6.57%",
-            "Head": "4.23%"
+            "Background": "18.60%",
+            "Body": "14.42%",
+            "Outfits": "7.44%",
+            "Back  Accessories": "6.98%",
+            "Mouth": "35.35%",
+            "Eyes": "6.51%",
+            "Head": "4.19%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/50.png"
@@ -1212,13 +1212,13 @@
             "Head": "Cowboy Hat"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "10.33%",
-            "Outfits": "7.04%",
-            "Back  Accessories": "7.98%",
-            "Mouth": "35.21%",
-            "Eyes": "4.69%",
-            "Head": "7.98%"
+            "Background": "18.14%",
+            "Body": "11.16%",
+            "Outfits": "6.98%",
+            "Back  Accessories": "8.37%",
+            "Mouth": "35.35%",
+            "Eyes": "4.65%",
+            "Head": "7.91%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/51.png"
@@ -1236,13 +1236,13 @@
             "Head": "Arrow through"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "12.68%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "35.21%",
-            "Eyes": "3.76%",
-            "Head": "2.35%"
+            "Background": "16.28%",
+            "Body": "12.56%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "35.35%",
+            "Eyes": "3.72%",
+            "Head": "2.33%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/52.png"
@@ -1260,13 +1260,13 @@
             "Head": "Super Saiyan"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "11.27%",
-            "Outfits": "9.39%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "6.57%",
-            "Eyes": "7.04%",
-            "Head": "3.29%"
+            "Background": "18.60%",
+            "Body": "11.16%",
+            "Outfits": "9.30%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "6.51%",
+            "Eyes": "6.98%",
+            "Head": "3.26%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/53.png"
@@ -1284,15 +1284,15 @@
             "Head": "Halo"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "15.96%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "7.98%",
-            "Mouth": "11.74%",
-            "Eyes": "6.10%",
-            "Head": "5.16%"
+            "Background": "16.28%",
+            "Body": "15.81%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "8.37%",
+            "Mouth": "12.09%",
+            "Eyes": "6.51%",
+            "Head": "5.12%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/54.png"
     },
     {
@@ -1308,15 +1308,15 @@
             "Head": "Cowboy Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "11.27%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "7.04%",
-            "Mouth": "14.55%",
-            "Eyes": "3.76%",
-            "Head": "7.98%"
+            "Background": "14.42%",
+            "Body": "11.16%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "6.98%",
+            "Mouth": "14.42%",
+            "Eyes": "4.19%",
+            "Head": "7.91%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/55.png"
     },
     {
@@ -1324,7 +1324,7 @@
         "name": "56",
         "attributes": {
             "Background": "Pink",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "Gold Necklace",
             "Back  Accessories": "Axe",
             "Mouth": "Cigarette 2",
@@ -1332,13 +1332,13 @@
             "Head": "Cowboy Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "10.80%",
-            "Outfits": "7.98%",
-            "Back  Accessories": "7.98%",
-            "Mouth": "14.55%",
-            "Eyes": "5.16%",
-            "Head": "7.98%"
+            "Background": "14.42%",
+            "Body": "23.26%",
+            "Outfits": "7.91%",
+            "Back  Accessories": "8.37%",
+            "Mouth": "14.42%",
+            "Eyes": "5.12%",
+            "Head": "7.91%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/56.png"
@@ -1348,7 +1348,7 @@
         "name": "57",
         "attributes": {
             "Background": "Pink",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "White Hoodie",
             "Back  Accessories": "Axe",
             "Mouth": "Cigarette 2",
@@ -1356,13 +1356,13 @@
             "Head": "Top Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "12.21%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "7.98%",
-            "Mouth": "14.55%",
-            "Eyes": "5.16%",
-            "Head": "5.63%"
+            "Background": "14.42%",
+            "Body": "23.26%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "8.37%",
+            "Mouth": "14.42%",
+            "Eyes": "5.12%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/57.png"
@@ -1380,13 +1380,13 @@
             "Head": "Wizard Hat"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "12.68%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "35.21%",
-            "Eyes": "4.23%",
-            "Head": "4.23%"
+            "Background": "18.14%",
+            "Body": "12.56%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "35.35%",
+            "Eyes": "4.19%",
+            "Head": "4.19%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/58.png"
@@ -1404,15 +1404,15 @@
             "Head": "Sombrero Hat"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "10.33%",
-            "Outfits": "7.98%",
-            "Back  Accessories": "7.04%",
-            "Mouth": "11.74%",
-            "Eyes": "6.57%",
-            "Head": "3.29%"
+            "Background": "18.60%",
+            "Body": "11.16%",
+            "Outfits": "7.91%",
+            "Back  Accessories": "6.98%",
+            "Mouth": "11.63%",
+            "Eyes": "6.51%",
+            "Head": "3.72%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/59.png"
     },
     {
@@ -1428,13 +1428,13 @@
             "Head": "Black Bandana"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "11.27%",
-            "Outfits": "7.98%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "35.21%",
-            "Eyes": "3.76%",
-            "Head": "3.76%"
+            "Background": "14.42%",
+            "Body": "11.16%",
+            "Outfits": "7.91%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "35.35%",
+            "Eyes": "4.19%",
+            "Head": "3.72%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/60.png"
@@ -1452,13 +1452,13 @@
             "Head": "Laser Hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "12.68%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "14.55%",
-            "Eyes": "5.16%",
-            "Head": "4.23%"
+            "Background": "16.28%",
+            "Body": "12.56%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "14.42%",
+            "Eyes": "5.12%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/61.png"
@@ -1476,13 +1476,13 @@
             "Head": "Bandana"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "14.55%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "11.74%",
-            "Eyes": "4.23%",
-            "Head": "6.57%"
+            "Background": "16.28%",
+            "Body": "14.42%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "12.09%",
+            "Eyes": "4.19%",
+            "Head": "6.51%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/62.png"
@@ -1500,13 +1500,13 @@
             "Head": "Cowboy Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "14.55%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "14.55%",
-            "Eyes": "3.76%",
-            "Head": "7.98%"
+            "Background": "14.42%",
+            "Body": "14.42%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "14.42%",
+            "Eyes": "3.72%",
+            "Head": "7.91%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/63.png"
@@ -1524,13 +1524,13 @@
             "Head": "Wizard Hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "15.96%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "35.21%",
-            "Eyes": "5.63%",
-            "Head": "4.23%"
+            "Background": "16.28%",
+            "Body": "15.81%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "35.35%",
+            "Eyes": "5.58%",
+            "Head": "4.19%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/64.png"
@@ -1548,15 +1548,15 @@
             "Head": "Snapback"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "15.96%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "7.98%",
-            "Mouth": "6.57%",
-            "Eyes": "4.23%",
-            "Head": "4.23%"
+            "Background": "14.42%",
+            "Body": "15.81%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "8.37%",
+            "Mouth": "6.51%",
+            "Eyes": "4.19%",
+            "Head": "4.19%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/65.png"
     },
     {
@@ -1572,13 +1572,13 @@
             "Head": "Horns"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "11.74%",
-            "Outfits": "7.98%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "14.55%",
-            "Eyes": "4.69%",
-            "Head": "2.82%"
+            "Background": "18.60%",
+            "Body": "11.63%",
+            "Outfits": "7.91%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "14.42%",
+            "Eyes": "4.65%",
+            "Head": "2.79%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/66.png"
@@ -1596,13 +1596,13 @@
             "Head": "Black Bandana"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "11.74%",
-            "Outfits": "9.39%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "35.21%",
-            "Eyes": "5.63%",
-            "Head": "3.76%"
+            "Background": "16.28%",
+            "Body": "11.63%",
+            "Outfits": "9.30%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "35.35%",
+            "Eyes": "5.58%",
+            "Head": "3.72%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/67.png"
@@ -1620,15 +1620,15 @@
             "Head": "None"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "14.55%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "7.04%",
-            "Mouth": "11.74%",
-            "Eyes": "4.69%",
-            "Head": "4.69%"
+            "Background": "14.42%",
+            "Body": "14.42%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "6.98%",
+            "Mouth": "11.63%",
+            "Eyes": "4.65%",
+            "Head": "4.65%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/68.png"
     },
     {
@@ -1644,13 +1644,13 @@
             "Head": "Purple Beanie"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "15.96%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "11.74%",
-            "Eyes": "4.69%",
-            "Head": "3.29%"
+            "Background": "16.28%",
+            "Body": "15.81%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "12.09%",
+            "Eyes": "4.65%",
+            "Head": "3.26%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/69.png"
@@ -1660,7 +1660,7 @@
         "name": "70",
         "attributes": {
             "Background": "Blue",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "Doge On Shirt",
             "Back  Accessories": "knight sword",
             "Mouth": "Cigarette",
@@ -1668,13 +1668,13 @@
             "Head": "Snapback"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "12.21%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "14.55%",
-            "Eyes": "6.57%",
-            "Head": "4.23%"
+            "Background": "16.28%",
+            "Body": "23.26%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "14.42%",
+            "Eyes": "6.51%",
+            "Head": "4.19%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/70.png"
@@ -1692,13 +1692,13 @@
             "Head": "Wizard Hat"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "15.96%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "11.74%",
-            "Eyes": "5.16%",
-            "Head": "4.23%"
+            "Background": "18.14%",
+            "Body": "15.81%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "12.09%",
+            "Eyes": "5.12%",
+            "Head": "4.19%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/71.png"
@@ -1716,13 +1716,13 @@
             "Head": "Laser Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "12.68%",
-            "Outfits": "9.39%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "14.55%",
-            "Eyes": "4.69%",
-            "Head": "4.23%"
+            "Background": "14.42%",
+            "Body": "12.56%",
+            "Outfits": "9.30%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "14.42%",
+            "Eyes": "4.65%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/72.png"
@@ -1740,13 +1740,13 @@
             "Head": "Headband"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "14.55%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "10.33%",
-            "Mouth": "35.21%",
-            "Eyes": "5.63%",
-            "Head": "4.23%"
+            "Background": "18.14%",
+            "Body": "14.42%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "10.23%",
+            "Mouth": "35.35%",
+            "Eyes": "5.58%",
+            "Head": "4.19%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/73.png"
@@ -1764,13 +1764,13 @@
             "Head": "Arrow through"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "15.96%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "6.57%",
-            "Eyes": "6.57%",
-            "Head": "2.35%"
+            "Background": "16.28%",
+            "Body": "15.81%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "6.51%",
+            "Eyes": "6.51%",
+            "Head": "2.33%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/74.png"
@@ -1788,13 +1788,13 @@
             "Head": "None"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "12.68%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "11.74%",
-            "Eyes": "7.04%",
-            "Head": "4.69%"
+            "Background": "16.28%",
+            "Body": "12.56%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "12.09%",
+            "Eyes": "6.98%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/75.png"
@@ -1812,13 +1812,13 @@
             "Head": "Rice hat"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "15.96%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "35.21%",
-            "Eyes": "3.76%",
-            "Head": "5.63%"
+            "Background": "18.14%",
+            "Body": "15.81%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "35.35%",
+            "Eyes": "3.72%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/76.png"
@@ -1836,13 +1836,13 @@
             "Head": "Bandana"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "14.55%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "35.21%",
-            "Eyes": "3.29%",
-            "Head": "6.57%"
+            "Background": "16.28%",
+            "Body": "14.42%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "35.35%",
+            "Eyes": "3.26%",
+            "Head": "6.51%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/77.png"
@@ -1860,13 +1860,13 @@
             "Head": "Rice hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "15.96%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "14.55%",
-            "Eyes": "4.69%",
-            "Head": "5.63%"
+            "Background": "16.28%",
+            "Body": "15.81%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "14.42%",
+            "Eyes": "4.65%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/78.png"
@@ -1884,13 +1884,13 @@
             "Head": "UFO"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "10.33%",
-            "Outfits": "7.98%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "14.55%",
-            "Eyes": "5.16%",
-            "Head": "5.16%"
+            "Background": "18.60%",
+            "Body": "11.16%",
+            "Outfits": "7.91%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "14.42%",
+            "Eyes": "5.12%",
+            "Head": "5.12%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/79.png"
@@ -1908,13 +1908,13 @@
             "Head": "Black Bandana"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "11.74%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "14.55%",
-            "Eyes": "5.63%",
-            "Head": "3.76%"
+            "Background": "18.60%",
+            "Body": "11.63%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "14.42%",
+            "Eyes": "5.58%",
+            "Head": "3.72%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/80.png"
@@ -1932,13 +1932,13 @@
             "Head": "Crown"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "15.96%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "11.74%",
-            "Eyes": "5.16%",
-            "Head": "5.63%"
+            "Background": "14.42%",
+            "Body": "15.81%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "11.63%",
+            "Eyes": "5.12%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/81.png"
@@ -1956,13 +1956,13 @@
             "Head": "Blue Beanie"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "15.96%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "6.57%",
-            "Eyes": "6.57%",
-            "Head": "3.29%"
+            "Background": "16.28%",
+            "Body": "15.81%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "6.51%",
+            "Eyes": "6.51%",
+            "Head": "3.26%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/82.png"
@@ -1980,15 +1980,15 @@
             "Head": "Rice hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "14.55%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "4.23%",
-            "Eyes": "4.69%",
-            "Head": "5.63%"
+            "Background": "16.28%",
+            "Body": "14.42%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "4.19%",
+            "Eyes": "4.65%",
+            "Head": "5.58%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/83.png"
     },
     {
@@ -1996,7 +1996,7 @@
         "name": "84",
         "attributes": {
             "Background": "Blue",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "Purple Suit",
             "Back  Accessories": "Katana 2",
             "Mouth": "Whistling",
@@ -2004,13 +2004,13 @@
             "Head": "Laser Hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "10.80%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "11.74%",
-            "Eyes": "4.23%",
-            "Head": "4.23%"
+            "Background": "16.28%",
+            "Body": "23.26%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "12.09%",
+            "Eyes": "4.19%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/84.png"
@@ -2020,7 +2020,7 @@
         "name": "85",
         "attributes": {
             "Background": "Purple",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "Purple Shirt 2",
             "Back  Accessories": "Katana",
             "Mouth": "None",
@@ -2028,13 +2028,13 @@
             "Head": "Backward Hat"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "10.80%",
-            "Outfits": "2.82%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "35.21%",
-            "Eyes": "6.57%",
-            "Head": "5.63%"
+            "Background": "18.14%",
+            "Body": "23.26%",
+            "Outfits": "2.79%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "35.35%",
+            "Eyes": "6.51%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/85.png"
@@ -2052,13 +2052,13 @@
             "Head": "None"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "12.68%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "7.04%",
-            "Mouth": "35.21%",
-            "Eyes": "4.69%",
-            "Head": "4.69%"
+            "Background": "18.60%",
+            "Body": "12.56%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "6.98%",
+            "Mouth": "35.35%",
+            "Eyes": "4.65%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/86.png"
@@ -2076,15 +2076,15 @@
             "Head": "Top Hat"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "11.74%",
-            "Outfits": "2.82%",
-            "Back  Accessories": "7.04%",
-            "Mouth": "11.74%",
-            "Eyes": "4.69%",
-            "Head": "5.63%"
+            "Background": "18.14%",
+            "Body": "11.63%",
+            "Outfits": "2.79%",
+            "Back  Accessories": "6.98%",
+            "Mouth": "11.63%",
+            "Eyes": "4.65%",
+            "Head": "5.58%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/87.png"
     },
     {
@@ -2100,15 +2100,15 @@
             "Head": "Backward Hat"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "11.27%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "7.98%",
-            "Mouth": "14.55%",
-            "Eyes": "6.10%",
-            "Head": "5.63%"
+            "Background": "18.14%",
+            "Body": "11.16%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "8.37%",
+            "Mouth": "14.42%",
+            "Eyes": "6.51%",
+            "Head": "5.58%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/88.png"
     },
     {
@@ -2124,13 +2124,13 @@
             "Head": "Backward Hat"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "14.55%",
-            "Outfits": "7.04%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "35.21%",
-            "Eyes": "5.63%",
-            "Head": "5.63%"
+            "Background": "18.60%",
+            "Body": "14.42%",
+            "Outfits": "6.98%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "35.35%",
+            "Eyes": "5.58%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/89.png"
@@ -2148,13 +2148,13 @@
             "Head": "Army Hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "14.55%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "11.74%",
-            "Eyes": "4.23%",
-            "Head": "4.69%"
+            "Background": "16.28%",
+            "Body": "14.42%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "12.09%",
+            "Eyes": "4.19%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/90.png"
@@ -2164,7 +2164,7 @@
         "name": "91",
         "attributes": {
             "Background": "Blue",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "Black Hoodie",
             "Back  Accessories": "Katana 2",
             "Mouth": "Whistling",
@@ -2172,13 +2172,13 @@
             "Head": "Crown"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "12.21%",
-            "Outfits": "9.39%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "11.74%",
-            "Eyes": "6.10%",
-            "Head": "5.63%"
+            "Background": "16.28%",
+            "Body": "23.26%",
+            "Outfits": "9.30%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "12.09%",
+            "Eyes": "6.51%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/91.png"
@@ -2196,13 +2196,13 @@
             "Head": "Laser Hat"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "10.33%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "14.55%",
-            "Eyes": "6.57%",
-            "Head": "4.23%"
+            "Background": "18.60%",
+            "Body": "11.16%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "14.42%",
+            "Eyes": "6.51%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/92.png"
@@ -2220,13 +2220,13 @@
             "Head": "Top Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "15.96%",
-            "Outfits": "7.04%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "14.55%",
-            "Eyes": "6.57%",
-            "Head": "5.63%"
+            "Background": "14.42%",
+            "Body": "15.81%",
+            "Outfits": "6.98%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "14.42%",
+            "Eyes": "6.51%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/93.png"
@@ -2244,13 +2244,13 @@
             "Head": "Top Hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "11.27%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "11.74%",
-            "Eyes": "3.76%",
-            "Head": "5.63%"
+            "Background": "16.28%",
+            "Body": "11.16%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "11.63%",
+            "Eyes": "4.19%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/94.png"
@@ -2268,13 +2268,13 @@
             "Head": "Arrow through"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "10.33%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "11.74%",
-            "Eyes": "3.29%",
-            "Head": "2.35%"
+            "Background": "14.42%",
+            "Body": "11.16%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "12.09%",
+            "Eyes": "3.26%",
+            "Head": "2.33%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/95.png"
@@ -2284,7 +2284,7 @@
         "name": "96",
         "attributes": {
             "Background": "Light Pink",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "Stripped Shirt",
             "Back  Accessories": "Katana",
             "Mouth": "None",
@@ -2292,13 +2292,13 @@
             "Head": "UFO"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "12.21%",
-            "Outfits": "5.16%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "35.21%",
-            "Eyes": "5.16%",
-            "Head": "5.16%"
+            "Background": "18.60%",
+            "Body": "23.26%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "35.35%",
+            "Eyes": "5.12%",
+            "Head": "5.12%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/96.png"
@@ -2316,13 +2316,13 @@
             "Head": "Army Hat"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "11.74%",
-            "Outfits": "9.39%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "35.21%",
-            "Eyes": "6.10%",
-            "Head": "4.69%"
+            "Background": "18.14%",
+            "Body": "11.63%",
+            "Outfits": "9.30%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "35.35%",
+            "Eyes": "6.05%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/97.png"
@@ -2340,13 +2340,13 @@
             "Head": "Cowboy Hat"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "11.74%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "7.98%",
-            "Mouth": "35.21%",
-            "Eyes": "5.16%",
-            "Head": "7.98%"
+            "Background": "18.14%",
+            "Body": "11.63%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "8.37%",
+            "Mouth": "35.35%",
+            "Eyes": "5.12%",
+            "Head": "7.91%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/98.png"
@@ -2356,7 +2356,7 @@
         "name": "99",
         "attributes": {
             "Background": "Purple",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "Gold Chain",
             "Back  Accessories": "Sword",
             "Mouth": "None",
@@ -2364,13 +2364,13 @@
             "Head": "Cowboy Hat"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "12.21%",
-            "Outfits": "7.51%",
-            "Back  Accessories": "10.33%",
-            "Mouth": "35.21%",
-            "Eyes": "4.69%",
-            "Head": "7.98%"
+            "Background": "18.14%",
+            "Body": "23.26%",
+            "Outfits": "7.44%",
+            "Back  Accessories": "10.23%",
+            "Mouth": "35.35%",
+            "Eyes": "4.65%",
+            "Head": "7.91%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/99.png"
@@ -2380,7 +2380,7 @@
         "name": "100",
         "attributes": {
             "Background": "Green",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "Armor",
             "Back  Accessories": "Katana",
             "Mouth": "Beard",
@@ -2388,13 +2388,13 @@
             "Head": "Bandana"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "10.80%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "6.57%",
-            "Eyes": "6.57%",
-            "Head": "6.57%"
+            "Background": "14.42%",
+            "Body": "23.26%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "6.51%",
+            "Eyes": "6.51%",
+            "Head": "6.51%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/100.png"
@@ -2412,13 +2412,13 @@
             "Head": "Laser Hat"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "14.55%",
-            "Outfits": "9.39%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "14.55%",
-            "Eyes": "6.10%",
-            "Head": "4.23%"
+            "Background": "18.60%",
+            "Body": "14.42%",
+            "Outfits": "9.30%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "14.42%",
+            "Eyes": "6.51%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/101.png"
@@ -2428,21 +2428,21 @@
         "name": "102",
         "attributes": {
             "Background": "Green",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "White Hoodie",
             "Back  Accessories": "knight sword",
             "Mouth": "None",
-            "Eyes": "Golden Eyes",
+            "Eyes": "Gold Eyes",
             "Head": "Dogecoin Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "10.80%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "35.21%",
-            "Eyes": "6.57%",
-            "Head": "3.76%"
+            "Background": "14.42%",
+            "Body": "23.26%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "35.35%",
+            "Eyes": "6.51%",
+            "Head": "3.72%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/102.png"
@@ -2460,13 +2460,13 @@
             "Head": "Top Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "15.96%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "35.21%",
-            "Eyes": "5.16%",
-            "Head": "5.63%"
+            "Background": "14.42%",
+            "Body": "15.81%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "35.35%",
+            "Eyes": "5.12%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/103.png"
@@ -2484,15 +2484,15 @@
             "Head": "Army Hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "14.55%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "7.98%",
-            "Mouth": "11.74%",
-            "Eyes": "4.23%",
-            "Head": "4.69%"
+            "Background": "16.28%",
+            "Body": "14.42%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "8.37%",
+            "Mouth": "11.63%",
+            "Eyes": "4.19%",
+            "Head": "4.65%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/104.png"
     },
     {
@@ -2508,13 +2508,13 @@
             "Head": "Wizard Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "14.55%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "14.55%",
-            "Eyes": "6.10%",
-            "Head": "4.23%"
+            "Background": "14.42%",
+            "Body": "14.42%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "14.42%",
+            "Eyes": "6.51%",
+            "Head": "4.19%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/105.png"
@@ -2528,19 +2528,19 @@
             "Outfits": "Gold Chain",
             "Back  Accessories": "Sword",
             "Mouth": "Bubblegum",
-            "Eyes": "Golden Eyes",
+            "Eyes": "Gold Eyes",
             "Head": "Super Saiyan"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "12.68%",
-            "Outfits": "7.51%",
-            "Back  Accessories": "10.33%",
-            "Mouth": "11.74%",
-            "Eyes": "6.57%",
-            "Head": "3.29%"
+            "Background": "18.14%",
+            "Body": "12.56%",
+            "Outfits": "7.44%",
+            "Back  Accessories": "10.23%",
+            "Mouth": "11.63%",
+            "Eyes": "6.51%",
+            "Head": "3.26%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/106.png"
     },
     {
@@ -2556,13 +2556,13 @@
             "Head": "None"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "12.68%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "14.55%",
-            "Eyes": "6.57%",
-            "Head": "4.69%"
+            "Background": "16.28%",
+            "Body": "12.56%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "14.42%",
+            "Eyes": "6.51%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/107.png"
@@ -2580,13 +2580,13 @@
             "Head": "Super Saiyan"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "11.27%",
-            "Outfits": "7.04%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "35.21%",
-            "Eyes": "4.23%",
-            "Head": "3.29%"
+            "Background": "18.14%",
+            "Body": "11.16%",
+            "Outfits": "6.98%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "35.35%",
+            "Eyes": "4.19%",
+            "Head": "3.26%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/108.png"
@@ -2604,13 +2604,13 @@
             "Head": "Arrow through"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "12.68%",
-            "Outfits": "7.51%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "11.74%",
-            "Eyes": "3.29%",
-            "Head": "2.35%"
+            "Background": "14.42%",
+            "Body": "12.56%",
+            "Outfits": "7.44%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "11.63%",
+            "Eyes": "3.26%",
+            "Head": "2.33%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/109.png"
@@ -2620,7 +2620,7 @@
         "name": "110",
         "attributes": {
             "Background": "Pink",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "Gold Necklace",
             "Back  Accessories": "None",
             "Mouth": "None",
@@ -2628,13 +2628,13 @@
             "Head": "Snapback"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "10.80%",
-            "Outfits": "7.98%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "35.21%",
-            "Eyes": "5.63%",
-            "Head": "4.23%"
+            "Background": "14.42%",
+            "Body": "23.26%",
+            "Outfits": "7.91%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "35.35%",
+            "Eyes": "5.58%",
+            "Head": "4.19%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/110.png"
@@ -2652,15 +2652,15 @@
             "Head": "Wizard Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "12.68%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "10.33%",
-            "Mouth": "4.23%",
-            "Eyes": "7.04%",
-            "Head": "4.23%"
+            "Background": "14.42%",
+            "Body": "12.56%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "10.23%",
+            "Mouth": "4.19%",
+            "Eyes": "6.98%",
+            "Head": "4.19%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/111.png"
     },
     {
@@ -2676,15 +2676,15 @@
             "Head": "Dogecoin Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "10.33%",
-            "Outfits": "7.04%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "11.74%",
-            "Eyes": "6.57%",
-            "Head": "3.76%"
+            "Background": "14.42%",
+            "Body": "11.16%",
+            "Outfits": "6.98%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "12.09%",
+            "Eyes": "6.51%",
+            "Head": "3.72%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/112.png"
     },
     {
@@ -2692,7 +2692,7 @@
         "name": "113",
         "attributes": {
             "Background": "Blue",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "White Hoodie",
             "Back  Accessories": "None",
             "Mouth": "Bubblegum",
@@ -2700,13 +2700,13 @@
             "Head": "Cowboy Hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "10.80%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "11.74%",
-            "Eyes": "5.16%",
-            "Head": "7.98%"
+            "Background": "16.28%",
+            "Body": "23.26%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "11.63%",
+            "Eyes": "5.12%",
+            "Head": "7.91%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/113.png"
@@ -2724,13 +2724,13 @@
             "Head": "Wizard Hat"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "11.27%",
-            "Outfits": "7.98%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "35.21%",
-            "Eyes": "3.29%",
-            "Head": "4.23%"
+            "Background": "18.14%",
+            "Body": "11.16%",
+            "Outfits": "7.91%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "35.35%",
+            "Eyes": "3.26%",
+            "Head": "4.19%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/114.png"
@@ -2744,17 +2744,17 @@
             "Outfits": "Purple Shirt",
             "Back  Accessories": "None",
             "Mouth": "Cigarette 2",
-            "Eyes": "Golden Eyes",
+            "Eyes": "Gold Eyes",
             "Head": "UFO"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "10.33%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "14.55%",
-            "Eyes": "6.57%",
-            "Head": "5.16%"
+            "Background": "16.28%",
+            "Body": "11.16%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "14.42%",
+            "Eyes": "6.51%",
+            "Head": "5.12%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/115.png"
@@ -2772,13 +2772,13 @@
             "Head": "Cowboy Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "10.33%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "35.21%",
-            "Eyes": "6.10%",
-            "Head": "7.98%"
+            "Background": "14.42%",
+            "Body": "11.16%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "35.35%",
+            "Eyes": "6.05%",
+            "Head": "7.91%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/116.png"
@@ -2792,19 +2792,19 @@
             "Outfits": "Purple Hoodie",
             "Back  Accessories": "Sword",
             "Mouth": "Whistling",
-            "Eyes": "Golden Eyes",
+            "Eyes": "Gold Eyes",
             "Head": "Headband"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "11.27%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "10.33%",
-            "Mouth": "11.74%",
-            "Eyes": "6.57%",
-            "Head": "4.23%"
+            "Background": "16.28%",
+            "Body": "11.16%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "10.23%",
+            "Mouth": "12.09%",
+            "Eyes": "6.51%",
+            "Head": "4.19%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/117.png"
     },
     {
@@ -2820,13 +2820,13 @@
             "Head": "Cowboy Hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "14.55%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "7.04%",
-            "Mouth": "14.55%",
-            "Eyes": "5.16%",
-            "Head": "7.98%"
+            "Background": "16.28%",
+            "Body": "14.42%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "6.98%",
+            "Mouth": "14.42%",
+            "Eyes": "5.12%",
+            "Head": "7.91%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/118.png"
@@ -2844,15 +2844,15 @@
             "Head": "Bandana"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "11.74%",
-            "Outfits": "2.82%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "1.41%",
-            "Eyes": "6.10%",
-            "Head": "6.57%"
+            "Background": "16.28%",
+            "Body": "11.63%",
+            "Outfits": "2.79%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "1.40%",
+            "Eyes": "6.51%",
+            "Head": "6.51%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/119.png"
     },
     {
@@ -2864,17 +2864,17 @@
             "Outfits": "Purple Hoodie",
             "Back  Accessories": "None",
             "Mouth": "Cigarette",
-            "Eyes": "Golden Eyes",
+            "Eyes": "Gold Eyes",
             "Head": "Halo"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "14.55%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "14.55%",
-            "Eyes": "6.57%",
-            "Head": "5.16%"
+            "Background": "16.28%",
+            "Body": "14.42%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "14.42%",
+            "Eyes": "6.51%",
+            "Head": "5.12%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/120.png"
@@ -2892,15 +2892,15 @@
             "Head": "Snapback"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "11.27%",
-            "Outfits": "9.39%",
-            "Back  Accessories": "7.04%",
-            "Mouth": "14.55%",
-            "Eyes": "5.16%",
-            "Head": "4.23%"
+            "Background": "16.28%",
+            "Body": "11.16%",
+            "Outfits": "9.30%",
+            "Back  Accessories": "6.98%",
+            "Mouth": "14.42%",
+            "Eyes": "5.12%",
+            "Head": "4.19%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/121.png"
     },
     {
@@ -2916,13 +2916,13 @@
             "Head": "Crown"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "15.96%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "14.55%",
-            "Eyes": "4.69%",
-            "Head": "5.63%"
+            "Background": "16.28%",
+            "Body": "15.81%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "14.42%",
+            "Eyes": "4.65%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/122.png"
@@ -2940,13 +2940,13 @@
             "Head": "Rice hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "15.96%",
-            "Outfits": "9.39%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "35.21%",
-            "Eyes": "6.57%",
-            "Head": "5.63%"
+            "Background": "14.42%",
+            "Body": "15.81%",
+            "Outfits": "9.30%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "35.35%",
+            "Eyes": "6.51%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/123.png"
@@ -2964,13 +2964,13 @@
             "Head": "Bandana"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "10.33%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "11.74%",
-            "Eyes": "6.57%",
-            "Head": "6.57%"
+            "Background": "16.28%",
+            "Body": "11.16%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "11.63%",
+            "Eyes": "6.51%",
+            "Head": "6.51%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/124.png"
@@ -2988,13 +2988,13 @@
             "Head": "Army Hat"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "10.33%",
-            "Outfits": "5.16%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "35.21%",
-            "Eyes": "6.57%",
-            "Head": "4.69%"
+            "Background": "18.60%",
+            "Body": "11.16%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "35.35%",
+            "Eyes": "6.51%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/125.png"
@@ -3012,19 +3012,19 @@
             "Head": "None"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "11.74%",
-            "Outfits": "7.51%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "35.21%",
-            "Eyes": "5.16%",
-            "Head": "4.69%"
+            "Background": "16.28%",
+            "Body": "11.63%",
+            "Outfits": "7.44%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "35.35%",
+            "Eyes": "5.12%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/126.png"
     },
     {
-        "inscriptionId": "221f30b8ab69fc953dc85d5cf08d7396ae719bbac316349f8dfe008957f4a1abi0 ",
+        "inscriptionId": "221f30b8ab69fc953dc85d5cf08d7396ae719bbac316349f8dfe008957f4a1abi0",
         "name": "127",
         "attributes": {
             "Background": "Green",
@@ -3036,15 +3036,15 @@
             "Head": "Snapback"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "14.55%",
-            "Outfits": "5.16%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "4.23%",
-            "Eyes": "6.10%",
-            "Head": "4.23%"
+            "Background": "14.42%",
+            "Body": "14.42%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "4.19%",
+            "Eyes": "6.51%",
+            "Head": "4.19%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/127.png"
     },
     {
@@ -3060,13 +3060,13 @@
             "Head": "Blue Beanie"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "11.27%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "35.21%",
-            "Eyes": "6.10%",
-            "Head": "3.29%"
+            "Background": "18.60%",
+            "Body": "11.16%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "35.35%",
+            "Eyes": "6.51%",
+            "Head": "3.26%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/128.png"
@@ -3084,13 +3084,13 @@
             "Head": "Cowboy Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "15.96%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "35.21%",
-            "Eyes": "5.16%",
-            "Head": "7.98%"
+            "Background": "14.42%",
+            "Body": "15.81%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "35.35%",
+            "Eyes": "5.12%",
+            "Head": "7.91%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/129.png"
@@ -3108,13 +3108,13 @@
             "Head": "Backward Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "15.96%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "10.33%",
-            "Mouth": "14.55%",
-            "Eyes": "7.04%",
-            "Head": "5.63%"
+            "Background": "14.42%",
+            "Body": "15.81%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "10.23%",
+            "Mouth": "14.42%",
+            "Eyes": "6.98%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/130.png"
@@ -3132,13 +3132,13 @@
             "Head": "Dogecoin Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "15.96%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "35.21%",
-            "Eyes": "5.63%",
-            "Head": "3.76%"
+            "Background": "14.42%",
+            "Body": "15.81%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "35.35%",
+            "Eyes": "5.58%",
+            "Head": "3.72%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/131.png"
@@ -3156,23 +3156,23 @@
             "Head": "Dogecoin Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "14.55%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "11.74%",
-            "Eyes": "7.04%",
-            "Head": "3.76%"
+            "Background": "14.42%",
+            "Body": "14.42%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "12.09%",
+            "Eyes": "6.98%",
+            "Head": "3.72%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/132.png"
     },
     {
-        "inscriptionId": "84bc6af11d09faeceee6c91c97b085135d5d8318e132ce25459e1f58af1757e5i0 ",
+        "inscriptionId": "84bc6af11d09faeceee6c91c97b085135d5d8318e132ce25459e1f58af1757e5i0",
         "name": "133",
         "attributes": {
             "Background": "Purple",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "knight armour",
             "Back  Accessories": "knight sword",
             "Mouth": "Bubblegum",
@@ -3180,19 +3180,19 @@
             "Head": "Army Hat"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "12.21%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "11.74%",
-            "Eyes": "5.16%",
-            "Head": "4.69%"
+            "Background": "18.14%",
+            "Body": "23.26%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "11.63%",
+            "Eyes": "5.12%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/133.png"
     },
     {
-        "inscriptionId": "d5921f5d403325f3a1fa23a96d5e03fab30b5af42f0180070af63151efb8bc5di0 ",
+        "inscriptionId": "d5921f5d403325f3a1fa23a96d5e03fab30b5af42f0180070af63151efb8bc5di0",
         "name": "134",
         "attributes": {
             "Background": "Purple",
@@ -3204,13 +3204,13 @@
             "Head": "Sombrero Hat"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "15.96%",
-            "Outfits": "7.98%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "4.23%",
-            "Eyes": "6.57%",
-            "Head": "3.29%"
+            "Background": "18.14%",
+            "Body": "15.81%",
+            "Outfits": "7.91%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "4.19%",
+            "Eyes": "6.51%",
+            "Head": "3.72%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/134.png"
@@ -3228,37 +3228,37 @@
             "Head": "Crown"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "11.27%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "7.98%",
-            "Mouth": "14.55%",
-            "Eyes": "7.04%",
-            "Head": "5.63%"
+            "Background": "18.60%",
+            "Body": "11.16%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "8.37%",
+            "Mouth": "14.42%",
+            "Eyes": "6.98%",
+            "Head": "5.58%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/135.png"
     },
     {
-        "inscriptionId": "bd83c03b79ccfa61794cb46cb0632b69d45014dab905932d53deb14cfd490179i0 ",
+        "inscriptionId": "bd83c03b79ccfa61794cb46cb0632b69d45014dab905932d53deb14cfd490179i0",
         "name": "136",
         "attributes": {
             "Background": "Pink",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "Hawaiian shirt",
             "Back  Accessories": "Katana",
             "Mouth": "Cigarette 2",
-            "Eyes": "Golden Eyes",
+            "Eyes": "Gold Eyes",
             "Head": "UFO"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "12.21%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "14.55%",
-            "Eyes": "6.57%",
-            "Head": "5.16%"
+            "Background": "14.42%",
+            "Body": "23.26%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "14.42%",
+            "Eyes": "6.51%",
+            "Head": "5.12%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/136.png"
@@ -3276,13 +3276,13 @@
             "Head": "Wizard Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "15.96%",
-            "Outfits": "7.98%",
-            "Back  Accessories": "10.33%",
-            "Mouth": "14.55%",
-            "Eyes": "6.57%",
-            "Head": "4.23%"
+            "Background": "14.42%",
+            "Body": "15.81%",
+            "Outfits": "7.91%",
+            "Back  Accessories": "10.23%",
+            "Mouth": "14.42%",
+            "Eyes": "6.51%",
+            "Head": "4.19%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/137.png"
@@ -3292,7 +3292,7 @@
         "name": "138",
         "attributes": {
             "Background": "Light Pink",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "Suit",
             "Back  Accessories": "Wings",
             "Mouth": "Bubblegum",
@@ -3300,13 +3300,13 @@
             "Head": "UFO"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "12.21%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "7.04%",
-            "Mouth": "11.74%",
-            "Eyes": "7.04%",
-            "Head": "5.16%"
+            "Background": "18.60%",
+            "Body": "23.26%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "6.98%",
+            "Mouth": "11.63%",
+            "Eyes": "6.98%",
+            "Head": "5.12%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/138.png"
@@ -3316,7 +3316,7 @@
         "name": "139",
         "attributes": {
             "Background": "Green",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "Wizard Robe",
             "Back  Accessories": "None",
             "Mouth": "Beard",
@@ -3324,13 +3324,13 @@
             "Head": "Crown"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "10.80%",
-            "Outfits": "7.04%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "6.57%",
-            "Eyes": "6.10%",
-            "Head": "5.63%"
+            "Background": "14.42%",
+            "Body": "23.26%",
+            "Outfits": "6.98%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "6.51%",
+            "Eyes": "6.51%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/139.png"
@@ -3348,13 +3348,13 @@
             "Head": "Cowboy Hat"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "14.55%",
-            "Outfits": "9.39%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "35.21%",
-            "Eyes": "5.63%",
-            "Head": "7.98%"
+            "Background": "18.60%",
+            "Body": "14.42%",
+            "Outfits": "9.30%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "35.35%",
+            "Eyes": "5.58%",
+            "Head": "7.91%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/140.png"
@@ -3372,13 +3372,13 @@
             "Head": "Top Hat"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "14.55%",
-            "Outfits": "7.04%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "14.55%",
-            "Eyes": "5.63%",
-            "Head": "5.63%"
+            "Background": "18.60%",
+            "Body": "14.42%",
+            "Outfits": "6.98%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "14.42%",
+            "Eyes": "5.58%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/141.png"
@@ -3396,13 +3396,13 @@
             "Head": "Crown"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "15.96%",
-            "Outfits": "7.51%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "14.55%",
-            "Eyes": "4.69%",
-            "Head": "5.63%"
+            "Background": "14.42%",
+            "Body": "15.81%",
+            "Outfits": "7.44%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "14.42%",
+            "Eyes": "4.65%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/142.png"
@@ -3420,13 +3420,13 @@
             "Head": "Black Bandana"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "15.96%",
-            "Outfits": "7.51%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "14.55%",
-            "Eyes": "4.69%",
-            "Head": "3.76%"
+            "Background": "16.28%",
+            "Body": "15.81%",
+            "Outfits": "7.44%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "14.42%",
+            "Eyes": "4.65%",
+            "Head": "3.72%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/143.png"
@@ -3436,7 +3436,7 @@
         "name": "144",
         "attributes": {
             "Background": "Light Pink",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "caveman animal skin",
             "Back  Accessories": "knight sword",
             "Mouth": "None",
@@ -3444,19 +3444,19 @@
             "Head": "Top Hat"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "10.80%",
-            "Outfits": "3.76%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "35.21%",
-            "Eyes": "5.16%",
-            "Head": "5.63%"
+            "Background": "18.60%",
+            "Body": "23.26%",
+            "Outfits": "3.72%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "35.35%",
+            "Eyes": "5.12%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/144.png"
     },
     {
-        "inscriptionId": "40dd7926e6db0700d849ec85647824289e9471925515ea532ec422dce77f80dfi0 ",
+        "inscriptionId": "40dd7926e6db0700d849ec85647824289e9471925515ea532ec422dce77f80dfi0",
         "name": "145",
         "attributes": {
             "Background": "Pink",
@@ -3468,13 +3468,13 @@
             "Head": "Blue Beanie"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "11.74%",
-            "Outfits": "9.39%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "35.21%",
-            "Eyes": "4.69%",
-            "Head": "3.29%"
+            "Background": "14.42%",
+            "Body": "11.63%",
+            "Outfits": "9.30%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "35.35%",
+            "Eyes": "4.65%",
+            "Head": "3.26%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/145.png"
@@ -3492,13 +3492,13 @@
             "Head": "Rice hat"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "14.55%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "6.57%",
-            "Eyes": "6.57%",
-            "Head": "5.63%"
+            "Background": "18.14%",
+            "Body": "14.42%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "6.51%",
+            "Eyes": "6.51%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/146.png"
@@ -3516,13 +3516,13 @@
             "Head": "Horns"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "14.55%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "35.21%",
-            "Eyes": "6.10%",
-            "Head": "2.82%"
+            "Background": "14.42%",
+            "Body": "14.42%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "35.35%",
+            "Eyes": "6.05%",
+            "Head": "2.79%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/147.png"
@@ -3540,15 +3540,15 @@
             "Head": "Army Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "15.96%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "7.98%",
-            "Mouth": "4.23%",
-            "Eyes": "5.63%",
-            "Head": "4.69%"
+            "Background": "14.42%",
+            "Body": "15.81%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "8.37%",
+            "Mouth": "4.19%",
+            "Eyes": "5.58%",
+            "Head": "4.65%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/148.png"
     },
     {
@@ -3564,13 +3564,13 @@
             "Head": "Cowboy Hat"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "15.96%",
-            "Outfits": "9.39%",
-            "Back  Accessories": "7.98%",
-            "Mouth": "35.21%",
-            "Eyes": "6.10%",
-            "Head": "7.98%"
+            "Background": "18.60%",
+            "Body": "15.81%",
+            "Outfits": "9.30%",
+            "Back  Accessories": "8.37%",
+            "Mouth": "35.35%",
+            "Eyes": "6.51%",
+            "Head": "7.91%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/149.png"
@@ -3588,13 +3588,13 @@
             "Head": "UFO"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "14.55%",
-            "Outfits": "7.98%",
-            "Back  Accessories": "7.98%",
-            "Mouth": "35.21%",
-            "Eyes": "6.57%",
-            "Head": "5.16%"
+            "Background": "14.42%",
+            "Body": "14.42%",
+            "Outfits": "7.91%",
+            "Back  Accessories": "8.37%",
+            "Mouth": "35.35%",
+            "Eyes": "6.51%",
+            "Head": "5.12%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/150.png"
@@ -3604,7 +3604,7 @@
         "name": "151",
         "attributes": {
             "Background": "Sky Blue",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "knight armour",
             "Back  Accessories": "knight sword",
             "Mouth": "Cigarette 2",
@@ -3612,19 +3612,19 @@
             "Head": "UFO"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "12.21%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "14.55%",
-            "Eyes": "7.04%",
-            "Head": "5.16%"
+            "Background": "16.28%",
+            "Body": "23.26%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "14.42%",
+            "Eyes": "6.98%",
+            "Head": "5.12%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/151.png"
     },
     {
-        "inscriptionId": "37d9321da81252a92226b6bfcb60e326b3104c0cf44fec8a8e4416e829ac1b8ci0 ",
+        "inscriptionId": "37d9321da81252a92226b6bfcb60e326b3104c0cf44fec8a8e4416e829ac1b8ci0",
         "name": "152",
         "attributes": {
             "Background": "Green",
@@ -3636,13 +3636,13 @@
             "Head": "Arrow through"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "15.96%",
-            "Outfits": "9.39%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "14.55%",
-            "Eyes": "6.57%",
-            "Head": "2.35%"
+            "Background": "14.42%",
+            "Body": "15.81%",
+            "Outfits": "9.30%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "14.42%",
+            "Eyes": "6.51%",
+            "Head": "2.33%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/152.png"
@@ -3660,13 +3660,13 @@
             "Head": "Halo"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "14.55%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "7.04%",
-            "Mouth": "35.21%",
-            "Eyes": "6.57%",
-            "Head": "5.16%"
+            "Background": "16.28%",
+            "Body": "14.42%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "6.98%",
+            "Mouth": "35.35%",
+            "Eyes": "6.51%",
+            "Head": "5.12%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/153.png"
@@ -3676,7 +3676,7 @@
         "name": "154",
         "attributes": {
             "Background": "Sky Blue",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "Gold Necklace",
             "Back  Accessories": "knight sword",
             "Mouth": "Cigarette",
@@ -3684,13 +3684,13 @@
             "Head": "Laser Hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "10.80%",
-            "Outfits": "7.98%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "14.55%",
-            "Eyes": "5.16%",
-            "Head": "4.23%"
+            "Background": "16.28%",
+            "Body": "23.26%",
+            "Outfits": "7.91%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "14.42%",
+            "Eyes": "5.12%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/154.png"
@@ -3708,13 +3708,13 @@
             "Head": "Bandana"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "11.27%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "11.74%",
-            "Eyes": "5.16%",
-            "Head": "6.57%"
+            "Background": "14.42%",
+            "Body": "11.16%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "12.09%",
+            "Eyes": "5.12%",
+            "Head": "6.51%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/155.png"
@@ -3732,13 +3732,13 @@
             "Head": "Cowboy Hat"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "12.68%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "10.33%",
-            "Mouth": "14.55%",
-            "Eyes": "6.57%",
-            "Head": "7.98%"
+            "Background": "18.60%",
+            "Body": "12.56%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "10.23%",
+            "Mouth": "14.42%",
+            "Eyes": "6.51%",
+            "Head": "7.91%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/156.png"
@@ -3756,13 +3756,13 @@
             "Head": "Army Hat"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "15.96%",
-            "Outfits": "3.76%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "35.21%",
-            "Eyes": "5.63%",
-            "Head": "4.69%"
+            "Background": "18.60%",
+            "Body": "15.81%",
+            "Outfits": "3.72%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "35.35%",
+            "Eyes": "5.58%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/157.png"
@@ -3772,7 +3772,7 @@
         "name": "158",
         "attributes": {
             "Background": "Sky Blue",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "Purple Hoodie",
             "Back  Accessories": "None",
             "Mouth": "Bubblegum",
@@ -3780,13 +3780,13 @@
             "Head": "None"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "12.21%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "11.74%",
-            "Eyes": "6.10%",
-            "Head": "4.69%"
+            "Background": "16.28%",
+            "Body": "23.26%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "11.63%",
+            "Eyes": "6.51%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/158.png"
@@ -3804,13 +3804,13 @@
             "Head": "Laser Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "10.33%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "11.74%",
-            "Eyes": "4.69%",
-            "Head": "4.23%"
+            "Background": "14.42%",
+            "Body": "11.16%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "11.63%",
+            "Eyes": "4.65%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/159.png"
@@ -3828,13 +3828,13 @@
             "Head": "Super Saiyan"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "14.55%",
-            "Outfits": "2.82%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "35.21%",
-            "Eyes": "5.16%",
-            "Head": "3.29%"
+            "Background": "18.60%",
+            "Body": "14.42%",
+            "Outfits": "2.79%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "35.35%",
+            "Eyes": "5.12%",
+            "Head": "3.26%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/160.png"
@@ -3852,13 +3852,13 @@
             "Head": "Headband"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "11.74%",
-            "Outfits": "3.76%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "35.21%",
-            "Eyes": "7.04%",
-            "Head": "4.23%"
+            "Background": "16.28%",
+            "Body": "11.63%",
+            "Outfits": "3.72%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "35.35%",
+            "Eyes": "6.98%",
+            "Head": "4.19%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/161.png"
@@ -3868,7 +3868,7 @@
         "name": "162",
         "attributes": {
             "Background": "Light Pink",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "Hawaiian shirt",
             "Back  Accessories": "Katana",
             "Mouth": "None",
@@ -3876,13 +3876,13 @@
             "Head": "Cowboy Hat"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "10.80%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "35.21%",
-            "Eyes": "5.63%",
-            "Head": "7.98%"
+            "Background": "18.60%",
+            "Body": "23.26%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "35.35%",
+            "Eyes": "5.58%",
+            "Head": "7.91%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/162.png"
@@ -3900,13 +3900,13 @@
             "Head": "Crown"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "11.74%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "6.57%",
-            "Eyes": "6.10%",
-            "Head": "5.63%"
+            "Background": "16.28%",
+            "Body": "11.63%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "6.51%",
+            "Eyes": "6.05%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/163.png"
@@ -3916,7 +3916,7 @@
         "name": "164",
         "attributes": {
             "Background": "Pink",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "Wizard Robe",
             "Back  Accessories": "knight sword",
             "Mouth": "None",
@@ -3924,13 +3924,13 @@
             "Head": "Blue Beanie"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "12.21%",
-            "Outfits": "7.04%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "35.21%",
-            "Eyes": "6.10%",
-            "Head": "3.29%"
+            "Background": "14.42%",
+            "Body": "23.26%",
+            "Outfits": "6.98%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "35.35%",
+            "Eyes": "6.05%",
+            "Head": "3.26%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/164.png"
@@ -3940,7 +3940,7 @@
         "name": "165",
         "attributes": {
             "Background": "Blue",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "White Hoodie",
             "Back  Accessories": "None",
             "Mouth": "Cigarette",
@@ -3948,23 +3948,23 @@
             "Head": "Army Hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "12.21%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "14.55%",
-            "Eyes": "6.57%",
-            "Head": "4.69%"
+            "Background": "16.28%",
+            "Body": "23.26%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "14.42%",
+            "Eyes": "6.51%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/165.png"
     },
     {
-        "inscriptionId": "b56b5a1728ea2fb2ff8590ff1dae62422d224f086ba6941df24da4d1d03424a8i0 ",
+        "inscriptionId": "b56b5a1728ea2fb2ff8590ff1dae62422d224f086ba6941df24da4d1d03424a8i0",
         "name": "166",
         "attributes": {
             "Background": "Blue",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "samurai",
             "Back  Accessories": "None",
             "Mouth": "Cigarette",
@@ -3972,13 +3972,13 @@
             "Head": "Headband"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "10.80%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "14.55%",
-            "Eyes": "5.63%",
-            "Head": "4.23%"
+            "Background": "16.28%",
+            "Body": "23.26%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "14.42%",
+            "Eyes": "5.58%",
+            "Head": "4.19%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/166.png"
@@ -3988,7 +3988,7 @@
         "name": "167",
         "attributes": {
             "Background": "Green",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "Purple Shirt 2",
             "Back  Accessories": "Sword",
             "Mouth": "Whistling",
@@ -3996,19 +3996,19 @@
             "Head": "Bandana"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "12.21%",
-            "Outfits": "2.82%",
-            "Back  Accessories": "10.33%",
-            "Mouth": "11.74%",
-            "Eyes": "5.16%",
-            "Head": "6.57%"
+            "Background": "14.42%",
+            "Body": "23.26%",
+            "Outfits": "2.79%",
+            "Back  Accessories": "10.23%",
+            "Mouth": "12.09%",
+            "Eyes": "5.12%",
+            "Head": "6.51%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/167.png"
     },
     {
-        "inscriptionId": "fa55c53f663297c0cd4fd40f2939ae849b7a6e460e87954d0eac51f83ba5c8fei0 ",
+        "inscriptionId": "fa55c53f663297c0cd4fd40f2939ae849b7a6e460e87954d0eac51f83ba5c8fei0",
         "name": "168",
         "attributes": {
             "Background": "Sky Blue",
@@ -4020,13 +4020,13 @@
             "Head": "Purple Beanie"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "15.96%",
-            "Outfits": "5.16%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "35.21%",
-            "Eyes": "4.69%",
-            "Head": "3.29%"
+            "Background": "16.28%",
+            "Body": "15.81%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "35.35%",
+            "Eyes": "4.65%",
+            "Head": "3.26%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/168.png"
@@ -4044,15 +4044,15 @@
             "Head": "Backward Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "14.55%",
-            "Outfits": "5.16%",
-            "Back  Accessories": "7.04%",
-            "Mouth": "11.74%",
-            "Eyes": "3.76%",
-            "Head": "5.63%"
+            "Background": "14.42%",
+            "Body": "14.42%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "6.98%",
+            "Mouth": "11.63%",
+            "Eyes": "4.19%",
+            "Head": "5.58%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/169.png"
     },
     {
@@ -4068,13 +4068,13 @@
             "Head": "Black Bandana"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "12.68%",
-            "Outfits": "7.04%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "35.21%",
-            "Eyes": "6.10%",
-            "Head": "3.76%"
+            "Background": "16.28%",
+            "Body": "12.56%",
+            "Outfits": "6.98%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "35.35%",
+            "Eyes": "6.05%",
+            "Head": "3.72%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/170.png"
@@ -4084,7 +4084,7 @@
         "name": "171",
         "attributes": {
             "Background": "Light Pink",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "Purple Shirt",
             "Back  Accessories": "None",
             "Mouth": "Cigarette",
@@ -4092,13 +4092,13 @@
             "Head": "Top Hat"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "12.21%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "14.55%",
-            "Eyes": "5.16%",
-            "Head": "5.63%"
+            "Background": "18.60%",
+            "Body": "23.26%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "14.42%",
+            "Eyes": "5.12%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/171.png"
@@ -4116,13 +4116,13 @@
             "Head": "UFO"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "12.68%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "35.21%",
-            "Eyes": "5.63%",
-            "Head": "5.16%"
+            "Background": "16.28%",
+            "Body": "12.56%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "35.35%",
+            "Eyes": "5.58%",
+            "Head": "5.12%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/172.png"
@@ -4140,15 +4140,15 @@
             "Head": "Rice hat"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "11.74%",
-            "Outfits": "2.82%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "11.74%",
-            "Eyes": "4.69%",
-            "Head": "5.63%"
+            "Background": "18.14%",
+            "Body": "11.63%",
+            "Outfits": "2.79%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "12.09%",
+            "Eyes": "4.65%",
+            "Head": "5.58%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/173.png"
     },
     {
@@ -4164,13 +4164,13 @@
             "Head": "Purple Beanie"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "12.68%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "4.23%",
-            "Eyes": "5.16%",
-            "Head": "3.29%"
+            "Background": "18.14%",
+            "Body": "12.56%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "4.19%",
+            "Eyes": "5.12%",
+            "Head": "3.26%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/174.png"
@@ -4188,13 +4188,13 @@
             "Head": "Rice hat"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "12.68%",
-            "Outfits": "9.39%",
-            "Back  Accessories": "7.98%",
-            "Mouth": "14.55%",
-            "Eyes": "3.76%",
-            "Head": "5.63%"
+            "Background": "18.14%",
+            "Body": "12.56%",
+            "Outfits": "9.30%",
+            "Back  Accessories": "8.37%",
+            "Mouth": "14.42%",
+            "Eyes": "3.72%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/175.png"
@@ -4212,15 +4212,15 @@
             "Head": "Wizard Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "11.27%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "11.74%",
-            "Eyes": "6.10%",
-            "Head": "4.23%"
+            "Background": "14.42%",
+            "Body": "11.16%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "12.09%",
+            "Eyes": "6.05%",
+            "Head": "4.19%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/176.png"
     },
     {
@@ -4228,7 +4228,7 @@
         "name": "177",
         "attributes": {
             "Background": "Sky Blue",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "Black Hoodie",
             "Back  Accessories": "Sword",
             "Mouth": "Bubblegum",
@@ -4236,13 +4236,13 @@
             "Head": "Headband"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "12.21%",
-            "Outfits": "9.39%",
-            "Back  Accessories": "10.33%",
-            "Mouth": "11.74%",
-            "Eyes": "3.76%",
-            "Head": "4.23%"
+            "Background": "16.28%",
+            "Body": "23.26%",
+            "Outfits": "9.30%",
+            "Back  Accessories": "10.23%",
+            "Mouth": "11.63%",
+            "Eyes": "3.72%",
+            "Head": "4.19%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/177.png"
@@ -4260,13 +4260,13 @@
             "Head": "Top Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "11.27%",
-            "Outfits": "7.04%",
-            "Back  Accessories": "10.33%",
-            "Mouth": "35.21%",
-            "Eyes": "6.10%",
-            "Head": "5.63%"
+            "Background": "14.42%",
+            "Body": "11.16%",
+            "Outfits": "6.98%",
+            "Back  Accessories": "10.23%",
+            "Mouth": "35.35%",
+            "Eyes": "6.05%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/178.png"
@@ -4284,13 +4284,13 @@
             "Head": "Army Hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "11.27%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "35.21%",
-            "Eyes": "4.69%",
-            "Head": "4.69%"
+            "Background": "16.28%",
+            "Body": "11.16%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "35.35%",
+            "Eyes": "4.65%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/179.png"
@@ -4308,13 +4308,13 @@
             "Head": "Bandana"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "14.55%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "35.21%",
-            "Eyes": "3.76%",
-            "Head": "6.57%"
+            "Background": "18.14%",
+            "Body": "14.42%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "35.35%",
+            "Eyes": "3.72%",
+            "Head": "6.51%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/180.png"
@@ -4332,13 +4332,13 @@
             "Head": "Army Hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "11.27%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "35.21%",
-            "Eyes": "5.16%",
-            "Head": "4.69%"
+            "Background": "16.28%",
+            "Body": "11.16%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "35.35%",
+            "Eyes": "5.12%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/181.png"
@@ -4356,13 +4356,13 @@
             "Head": "Purple Beanie"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "12.68%",
-            "Outfits": "7.51%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "14.55%",
-            "Eyes": "5.63%",
-            "Head": "3.29%"
+            "Background": "14.42%",
+            "Body": "12.56%",
+            "Outfits": "7.44%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "14.42%",
+            "Eyes": "5.58%",
+            "Head": "3.26%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/182.png"
@@ -4380,13 +4380,13 @@
             "Head": "Halo"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "10.33%",
-            "Outfits": "7.98%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "35.21%",
-            "Eyes": "6.10%",
-            "Head": "5.16%"
+            "Background": "18.60%",
+            "Body": "11.16%",
+            "Outfits": "7.91%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "35.35%",
+            "Eyes": "6.05%",
+            "Head": "5.12%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/183.png"
@@ -4404,13 +4404,13 @@
             "Head": "Bandana"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "14.55%",
-            "Outfits": "9.39%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "35.21%",
-            "Eyes": "5.16%",
-            "Head": "6.57%"
+            "Background": "14.42%",
+            "Body": "14.42%",
+            "Outfits": "9.30%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "35.35%",
+            "Eyes": "5.12%",
+            "Head": "6.51%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/184.png"
@@ -4428,13 +4428,13 @@
             "Head": "Crown"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "15.96%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "35.21%",
-            "Eyes": "5.16%",
-            "Head": "5.63%"
+            "Background": "14.42%",
+            "Body": "15.81%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "35.35%",
+            "Eyes": "5.12%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/185.png"
@@ -4452,13 +4452,13 @@
             "Head": "Sombrero Hat"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "11.27%",
-            "Outfits": "7.51%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "6.57%",
-            "Eyes": "4.69%",
-            "Head": "3.29%"
+            "Background": "18.60%",
+            "Body": "11.16%",
+            "Outfits": "7.44%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "6.51%",
+            "Eyes": "4.65%",
+            "Head": "3.72%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/186.png"
@@ -4476,13 +4476,13 @@
             "Head": "Top Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "15.96%",
-            "Outfits": "4.69%",
-            "Back  Accessories": "7.04%",
-            "Mouth": "35.21%",
-            "Eyes": "7.04%",
-            "Head": "5.63%"
+            "Background": "14.42%",
+            "Body": "15.81%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "6.98%",
+            "Mouth": "35.35%",
+            "Eyes": "6.98%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/187.png"
@@ -4492,7 +4492,7 @@
         "name": "188",
         "attributes": {
             "Background": "Blue",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "Doge On Shirt",
             "Back  Accessories": "None",
             "Mouth": "Bubblegum",
@@ -4500,13 +4500,13 @@
             "Head": "Black Bandana"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "12.21%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "11.74%",
-            "Eyes": "6.10%",
-            "Head": "3.76%"
+            "Background": "16.28%",
+            "Body": "23.26%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "11.63%",
+            "Eyes": "6.05%",
+            "Head": "3.72%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/188.png"
@@ -4524,13 +4524,13 @@
             "Head": "Dogecoin Hat"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "11.74%",
-            "Outfits": "9.39%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "11.74%",
-            "Eyes": "7.04%",
-            "Head": "3.76%"
+            "Background": "18.60%",
+            "Body": "11.63%",
+            "Outfits": "9.30%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "11.63%",
+            "Eyes": "6.98%",
+            "Head": "3.72%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/189.png"
@@ -4548,15 +4548,15 @@
             "Head": "Sombrero Hat"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "10.33%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "11.74%",
-            "Eyes": "5.16%",
-            "Head": "3.29%"
+            "Background": "16.28%",
+            "Body": "11.16%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "12.09%",
+            "Eyes": "5.12%",
+            "Head": "3.72%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/190.png"
     },
     {
@@ -4572,13 +4572,13 @@
             "Head": "Bandana"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "12.68%",
-            "Outfits": "3.76%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "35.21%",
-            "Eyes": "6.57%",
-            "Head": "6.57%"
+            "Background": "18.60%",
+            "Body": "12.56%",
+            "Outfits": "3.72%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "35.35%",
+            "Eyes": "6.51%",
+            "Head": "6.51%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/191.png"
@@ -4588,7 +4588,7 @@
         "name": "192",
         "attributes": {
             "Background": "Light Pink",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "Suit",
             "Back  Accessories": "Axe",
             "Mouth": "None",
@@ -4596,13 +4596,13 @@
             "Head": "Backward Hat"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "12.21%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "7.98%",
-            "Mouth": "35.21%",
-            "Eyes": "6.10%",
-            "Head": "5.63%"
+            "Background": "18.60%",
+            "Body": "23.26%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "8.37%",
+            "Mouth": "35.35%",
+            "Eyes": "6.05%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/192.png"
@@ -4612,7 +4612,7 @@
         "name": "193",
         "attributes": {
             "Background": "Light Pink",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "Wizard Robe",
             "Back  Accessories": "Sword",
             "Mouth": "Cigarette",
@@ -4620,13 +4620,13 @@
             "Head": "Halo"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "10.80%",
-            "Outfits": "7.04%",
-            "Back  Accessories": "10.33%",
-            "Mouth": "14.55%",
-            "Eyes": "6.57%",
-            "Head": "5.16%"
+            "Background": "18.60%",
+            "Body": "23.26%",
+            "Outfits": "6.98%",
+            "Back  Accessories": "10.23%",
+            "Mouth": "14.42%",
+            "Eyes": "6.51%",
+            "Head": "5.12%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/193.png"
@@ -4640,17 +4640,17 @@
             "Outfits": "Gold Chain",
             "Back  Accessories": "Sword",
             "Mouth": "None",
-            "Eyes": "Golden Eyes",
+            "Eyes": "Gold Eyes",
             "Head": "Sombrero Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "12.68%",
-            "Outfits": "7.51%",
-            "Back  Accessories": "10.33%",
-            "Mouth": "35.21%",
-            "Eyes": "6.57%",
-            "Head": "3.29%"
+            "Background": "14.42%",
+            "Body": "12.56%",
+            "Outfits": "7.44%",
+            "Back  Accessories": "10.23%",
+            "Mouth": "35.35%",
+            "Eyes": "6.51%",
+            "Head": "3.72%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/194.png"
@@ -4668,15 +4668,15 @@
             "Head": "Snapback"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "12.68%",
-            "Outfits": "3.76%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "11.74%",
-            "Eyes": "5.16%",
-            "Head": "4.23%"
+            "Background": "18.14%",
+            "Body": "12.56%",
+            "Outfits": "3.72%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "11.63%",
+            "Eyes": "5.12%",
+            "Head": "4.19%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/195.png"
     },
     {
@@ -4688,17 +4688,17 @@
             "Outfits": "Wizard Robe",
             "Back  Accessories": "Sword",
             "Mouth": "None",
-            "Eyes": "Golden Eyes",
+            "Eyes": "Gold Eyes",
             "Head": "None"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "11.74%",
-            "Outfits": "7.04%",
-            "Back  Accessories": "10.33%",
-            "Mouth": "35.21%",
-            "Eyes": "6.57%",
-            "Head": "4.69%"
+            "Background": "16.28%",
+            "Body": "11.63%",
+            "Outfits": "6.98%",
+            "Back  Accessories": "10.23%",
+            "Mouth": "35.35%",
+            "Eyes": "6.51%",
+            "Head": "4.65%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/196.png"
@@ -4716,13 +4716,13 @@
             "Head": "UFO"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "11.27%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "35.21%",
-            "Eyes": "3.29%",
-            "Head": "5.16%"
+            "Background": "16.28%",
+            "Body": "11.16%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "35.35%",
+            "Eyes": "3.26%",
+            "Head": "5.12%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/197.png"
@@ -4740,13 +4740,13 @@
             "Head": "Sombrero Hat"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "10.33%",
-            "Outfits": "5.16%",
-            "Back  Accessories": "7.04%",
-            "Mouth": "35.21%",
-            "Eyes": "4.69%",
-            "Head": "3.29%"
+            "Background": "18.60%",
+            "Body": "11.16%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "6.98%",
+            "Mouth": "35.35%",
+            "Eyes": "4.65%",
+            "Head": "3.72%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/198.png"
@@ -4756,7 +4756,7 @@
         "name": "199",
         "attributes": {
             "Background": "Sky Blue",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "Gold Necklace",
             "Back  Accessories": "Katana 2",
             "Mouth": "Cigarette",
@@ -4764,13 +4764,13 @@
             "Head": "Blue Beanie"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "10.80%",
-            "Outfits": "7.98%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "14.55%",
-            "Eyes": "5.16%",
-            "Head": "3.29%"
+            "Background": "16.28%",
+            "Body": "23.26%",
+            "Outfits": "7.91%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "14.42%",
+            "Eyes": "5.12%",
+            "Head": "3.26%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/199.png"
@@ -4788,15 +4788,15 @@
             "Head": "Bandana"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "11.74%",
-            "Outfits": "7.04%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "6.57%",
-            "Eyes": "5.16%",
-            "Head": "6.57%"
+            "Background": "16.28%",
+            "Body": "11.63%",
+            "Outfits": "6.98%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "6.51%",
+            "Eyes": "5.12%",
+            "Head": "6.51%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/200.png"
     },
     {
@@ -4812,15 +4812,15 @@
             "Head": "Backward Hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "10.33%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "11.74%",
-            "Eyes": "4.23%",
-            "Head": "5.63%"
+            "Background": "14.42%",
+            "Body": "11.16%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "11.63%",
+            "Eyes": "4.19%",
+            "Head": "5.58%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/201.png"
     },
     {
@@ -4828,7 +4828,7 @@
         "name": "202",
         "attributes": {
             "Background": "Purple",
-            "Body": "Yellow",
+            "Body": "Gold",
             "Outfits": "Black Hoodie",
             "Back  Accessories": "Katana 2",
             "Mouth": "Cigarette 2",
@@ -4836,13 +4836,13 @@
             "Head": "Snapback"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "12.21%",
-            "Outfits": "9.39%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "14.55%",
-            "Eyes": "5.16%",
-            "Head": "4.23%"
+            "Background": "18.14%",
+            "Body": "23.26%",
+            "Outfits": "9.30%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "14.42%",
+            "Eyes": "5.12%",
+            "Head": "4.19%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/202.png"
@@ -4860,13 +4860,13 @@
             "Head": "Purple Beanie"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "11.74%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "35.21%",
-            "Eyes": "6.57%",
-            "Head": "3.29%"
+            "Background": "18.14%",
+            "Body": "11.63%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "35.35%",
+            "Eyes": "6.51%",
+            "Head": "3.26%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/203.png"
@@ -4884,13 +4884,13 @@
             "Head": "UFO"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "11.74%",
-            "Outfits": "7.04%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "11.74%",
-            "Eyes": "6.10%",
-            "Head": "5.16%"
+            "Background": "14.42%",
+            "Body": "11.63%",
+            "Outfits": "6.98%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "12.09%",
+            "Eyes": "6.51%",
+            "Head": "5.12%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/204.png"
@@ -4900,7 +4900,7 @@
         "name": "205",
         "attributes": {
             "Background": "Purple",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "Gold Chain",
             "Back  Accessories": "None",
             "Mouth": "None",
@@ -4908,13 +4908,13 @@
             "Head": "Halo"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "10.80%",
-            "Outfits": "7.51%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "35.21%",
-            "Eyes": "4.69%",
-            "Head": "5.16%"
+            "Background": "18.14%",
+            "Body": "23.26%",
+            "Outfits": "7.44%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "35.35%",
+            "Eyes": "4.65%",
+            "Head": "5.12%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/205.png"
@@ -4924,7 +4924,7 @@
         "name": "206",
         "attributes": {
             "Background": "Blue",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "Gold Chain",
             "Back  Accessories": "Katana",
             "Mouth": "Coin in Mouth",
@@ -4932,13 +4932,13 @@
             "Head": "Bandana"
         },
         "rarity": {
-            "Background": "16.43%",
-            "Body": "10.80%",
-            "Outfits": "7.51%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "4.23%",
-            "Eyes": "3.76%",
-            "Head": "6.57%"
+            "Background": "16.28%",
+            "Body": "23.26%",
+            "Outfits": "7.44%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "4.19%",
+            "Eyes": "3.72%",
+            "Head": "6.51%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/206.png"
@@ -4956,13 +4956,13 @@
             "Head": "Halo"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "15.96%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "14.55%",
-            "Eyes": "5.16%",
-            "Head": "5.16%"
+            "Background": "18.60%",
+            "Body": "15.81%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "14.42%",
+            "Eyes": "5.12%",
+            "Head": "5.12%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/207.png"
@@ -4980,13 +4980,13 @@
             "Head": "Headband"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "12.68%",
-            "Outfits": "5.63%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "11.74%",
-            "Eyes": "3.76%",
-            "Head": "4.23%"
+            "Background": "18.14%",
+            "Body": "12.56%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "12.09%",
+            "Eyes": "4.19%",
+            "Head": "4.19%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/208.png"
@@ -5004,13 +5004,13 @@
             "Head": "Backward Hat"
         },
         "rarity": {
-            "Background": "18.78%",
-            "Body": "12.68%",
-            "Outfits": "4.23%",
-            "Back  Accessories": "14.55%",
-            "Mouth": "11.74%",
-            "Eyes": "5.63%",
-            "Head": "5.63%"
+            "Background": "18.60%",
+            "Body": "12.56%",
+            "Outfits": "4.19%",
+            "Back  Accessories": "14.42%",
+            "Mouth": "11.63%",
+            "Eyes": "5.58%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/209.png"
@@ -5028,19 +5028,19 @@
             "Head": "Black Bandana"
         },
         "rarity": {
-            "Background": "18.31%",
-            "Body": "10.33%",
-            "Outfits": "9.39%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "14.55%",
-            "Eyes": "4.69%",
-            "Head": "3.76%"
+            "Background": "18.14%",
+            "Body": "11.16%",
+            "Outfits": "9.30%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "14.42%",
+            "Eyes": "4.65%",
+            "Head": "3.72%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/210.png"
     },
     {
-        "inscriptionId": "a2c47ce78705aff40d68ed07f96bbe715d3487bbb6f05de2e3065337cea5d6d0i0 ",
+        "inscriptionId": "a2c47ce78705aff40d68ed07f96bbe715d3487bbb6f05de2e3065337cea5d6d0i0",
         "name": "211",
         "attributes": {
             "Background": "Green",
@@ -5052,15 +5052,15 @@
             "Head": "Rice hat"
         },
         "rarity": {
-            "Background": "14.55%",
-            "Body": "10.33%",
-            "Outfits": "5.16%",
-            "Back  Accessories": "0.47%",
-            "Mouth": "14.55%",
-            "Eyes": "3.76%",
-            "Head": "5.63%"
+            "Background": "14.42%",
+            "Body": "11.16%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "0.93%",
+            "Mouth": "14.42%",
+            "Eyes": "4.19%",
+            "Head": "5.58%"
         },
-        "overall_rarity": "Uncommon",
+        "overall_rarity": "Rare",
         "image_path": "ducks/211.png"
     },
     {
@@ -5077,14 +5077,14 @@
         },
         "rarity": {
             "Background": "0.47%",
-            "Body": "0.47%",
-            "Outfits": "5.16%",
-            "Back  Accessories": "30.05%",
-            "Mouth": "11.74%",
-            "Eyes": "5.63%",
+            "Body": "23.26%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "29.77%",
+            "Mouth": "12.09%",
+            "Eyes": "5.58%",
             "Head": "0.47%"
         },
-        "overall_rarity": "Rare",
+        "overall_rarity": "Uncommon",
         "image_path": "ducks/212.png"
     },
     {
@@ -5092,7 +5092,7 @@
         "name": "213",
         "attributes": {
             "Background": "Brown",
-            "Body": "Golden",
+            "Body": "Gold",
             "Outfits": "Black Hoodie",
             "Back  Accessories": "Katana",
             "Mouth": "Cigarette",
@@ -5101,14 +5101,62 @@
         },
         "rarity": {
             "Background": "0.47%",
-            "Body": "10.80%",
-            "Outfits": "9.39%",
-            "Back  Accessories": "15.02%",
-            "Mouth": "14.55%",
-            "Eyes": "5.63%",
-            "Head": "5.63%"
+            "Body": "23.26%",
+            "Outfits": "9.30%",
+            "Back  Accessories": "14.88%",
+            "Mouth": "14.42%",
+            "Eyes": "5.58%",
+            "Head": "5.58%"
         },
         "overall_rarity": "Uncommon",
         "image_path": "ducks/213.png"
+    },
+    {
+        "inscriptionId": "be9b035867246c2e3949ad74baa6983ca7784f1ae23a441a198036c7b1d6fe35i0",
+        "name": "214",
+        "attributes": {
+            "Background": "green",
+            "Body": "Black",
+            "Outfits": "Stripped Shirt",
+            "Back  Accessories": "Knight sword",
+            "Mouth": "Whistling",
+            "Eyes": "Pink VR",
+            "Head": "Sombrero Hat"
+        },
+        "rarity": {
+            "Background": "0.93%",
+            "Body": "11.16%",
+            "Outfits": "5.58%",
+            "Back  Accessories": "0.93%",
+            "Mouth": "12.09%",
+            "Eyes": "6.51%",
+            "Head": "3.72%"
+        },
+        "overall_rarity": "Rare",
+        "image_path": "ducks/214.png"
+    },
+    {
+        "inscriptionId": "4187f71a4e8253942847a2b050569d679b17a7abe881caff0965e3b4d4d572d9i0",
+        "name": "215",
+        "attributes": {
+            "Background": "green",
+            "Body": "Black",
+            "Outfits": "samurai",
+            "Back  Accessories": "Axe",
+            "Mouth": "None",
+            "Eyes": "Baked Eyes",
+            "Head": "Laser Hat"
+        },
+        "rarity": {
+            "Background": "0.93%",
+            "Body": "11.16%",
+            "Outfits": "4.65%",
+            "Back  Accessories": "8.37%",
+            "Mouth": "35.35%",
+            "Eyes": "4.19%",
+            "Head": "4.65%"
+        },
+        "overall_rarity": "Rare",
+        "image_path": "ducks/215.png"
     }
 ]
