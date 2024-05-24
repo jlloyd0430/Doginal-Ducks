@@ -2,7 +2,7 @@ import './App.css';
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Route, Routes, Link, useLocation } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faBars, faGlobe } from '@fortawesome/free-solid-svg-icons';
+import { faBars, faGlobe, faImage } from '@fortawesome/free-solid-svg-icons';
 import { faTwitter, faDiscord } from '@fortawesome/free-brands-svg-icons';
 import Roadmap from './Roadmap';
 import Kwak from './Kwak';
@@ -69,7 +69,7 @@ const App = () => {
   const location = useLocation();
 
   return (
-    <div className='container'>
+    <div className={`container ${location.pathname === '/rarity' ? 'rarity-background' : ''}`}>
       <FontAwesomeIcon icon={faBars} className="nav-icon" onClick={handleMenuClick} />
       <div className={`sidebar ${sidebarOpen ? 'open' : ''}`}>
         <ul>
@@ -121,14 +121,18 @@ const App = () => {
         <Route path="/about" element={<About />} />
       </Routes>
       <footer className="footer">
-        <a href="https://twitter.com/doginalducks" target="_blank" rel="noopener noreferrer">
+        <p>Powered by Nova Labs</p>
+        <a href="https://twitter.com/yourprofile" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faTwitter} />
         </a>
-        <a href="https://discord.gg/qKjymp53DB" target="_blank" rel="noopener noreferrer">
+        <a href="https://discord.com/invite/yourinvite" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faDiscord} />
         </a>
         <a href="https://doggy.market/nfts/doginalducks" target="_blank" rel="noopener noreferrer">
-        <FontAwesomeIcon icon={faGlobe} />
+          <FontAwesomeIcon icon={faImage} />
+        </a>
+        <a href="https://novalab.app" target="_blank" rel="noopener noreferrer">
+          <FontAwesomeIcon icon={faGlobe} />
         </a>
       </footer>
     </div>
