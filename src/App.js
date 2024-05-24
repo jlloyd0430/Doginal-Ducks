@@ -86,7 +86,7 @@ const App = () => {
           <div className="search-container">
             <input
               type="text"
-              placeholder="Search Inscription ID Or Duck #"
+              placeholder="Search Duck #"
               value={query}
               onChange={handleInputChange}
               className="search-input"
