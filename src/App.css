@@ -131,6 +131,28 @@ body {
   color: gold;
 }
 
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.buy-now-button {
+  background-color: #ff9900;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.buy-now-button:hover {
+  background-color: #cc7a00;
+}
+
+
 .images-container {
   display: flex;
   justify-content: center; /* Center the images horizontally */
