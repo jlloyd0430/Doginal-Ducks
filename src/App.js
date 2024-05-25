@@ -100,7 +100,7 @@ const App = () => {
               <option value="all">All</option>
               <option value="rare">Rare</option>
               <option value="uncommon">Uncommon</option>
-              <option value="common">Common</option>
+              
             </select>
           </div>
         </>
