@@ -41,11 +41,11 @@ const Home = () => {
       <div className="background-image">
         <h1 className="home-title">Welcome to The Krypt</h1>
         <p className="home-description">This is the Land of Doginal Ducks.</p>
-        
-        <div className="button-container">
-             <p> Join us </p>
-          <button className="buy-now-button">Get Ducked</button>
-          <button className="buy-now-button">Get $Kwak</button>
+
+    <div className="button-container">
+      <p> Join us </p>
+          <a href="https://doggy.market/nfts/doginalducks" className="buy-now-button">Get Ducked</a>
+          <a href="" className="buy-now-button">Get $Kwak</a>
         </div>
 
         <div className="carousel-container">
