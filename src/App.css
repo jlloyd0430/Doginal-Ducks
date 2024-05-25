@@ -146,6 +146,8 @@ body {
   cursor: pointer;
   font-size: 16px;
   border-radius: 5px;
+  display: inline-block;
+  text-align: center;
 }
 
 .buy-now-button:hover {
