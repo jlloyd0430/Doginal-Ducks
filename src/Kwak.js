@@ -4,7 +4,7 @@ const Kwak = () => {
   return (
     <div>
       <h2>$Kwak</h2>
-      <p>Kwak Details soon tba..</p>
+      <p>Kwak Token will be the first Governance DRC-20 token on Doge but will also be used for manny other things on dogepond v2 tba, and in future developmets .</p>
     </div>
   );
 };
