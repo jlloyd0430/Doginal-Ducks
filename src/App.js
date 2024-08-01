@@ -122,16 +122,16 @@ const App = () => {
       </Routes>
       <footer className="footer">
         <p>Powered by Nova Labs</p>
-        <a href="https://twitter.com/yourprofile" target="_blank" rel="noopener noreferrer">
+        <a href="https://twitter.com/DoginalDucks" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faTwitter} />
         </a>
-        <a href="https://discord.com/invite/yourinvite" target="_blank" rel="noopener noreferrer">
+        <a href="https://discord.gg/RN2sUtz4CB" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faDiscord} />
         </a>
         <a href="https://doggy.market/nfts/doginalducks" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faImage} />
         </a>
-        <a href="https://novalab.app" target="_blank" rel="noopener noreferrer">
+        <a href="https://dogepond.com" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faGlobe} />
         </a>
       </footer>
