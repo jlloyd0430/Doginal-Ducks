@@ -33,3 +33,8 @@
   background: #ccc;
   transform: translateY(-50%);
 }
+
+.check-mark {
+  color: green;
+  margin-left: 10px;
+}
