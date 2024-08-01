@@ -1,0 +1,35 @@
+.roadmap-container {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.roadmap-timeline {
+  position: relative;
+  padding-left: 20px;
+  border-left: 2px solid #ccc;
+}
+
+.roadmap-card {
+  position: relative;
+  margin-bottom: 20px;
+  padding-left: 20px;
+}
+
+.card-content {
+  background: #fff;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.timeline-line {
+  position: absolute;
+  left: -2px;
+  top: 50%;
+  width: 2px;
+  height: calc(100% - 40px);
+  background: #ccc;
+  transform: translateY(-50%);
+}
